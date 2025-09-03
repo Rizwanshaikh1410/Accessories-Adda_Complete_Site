@@ -371,8 +371,8 @@
       "bestseller"
     ],
     "images": [
-      "https://placehold.co/600x600?text=Protective+Back+Cover+#018",
-      "https://placehold.co/400x400?text=Protective+Back+Cover+#018"
+      "/assets/Products/back-covers/3d5acd15-4378-4af8-ad98-6eef986920b8.jpeg",
+      "/assets/Products/back-covers/fb4ac04b-373f-48e2-82ec-e53b8aa6326b.jpeg"
     ],
     "description": "CaseCraft Protective Back Cover #018 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
     "warranty": "6 months limited warranty"
@@ -6725,7 +6725,7 @@
     "brand": "ChargeGo",
     "category": "UBON",
     "price": 919,
-    "mrp": 1250,
+    "mrp": 1950,
     "rating": 3.8,
     "stock": 29,
     "tags": [
