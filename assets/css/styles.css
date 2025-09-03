@@ -1,0 +1,134 @@
+:root {
+    --bs-primary: #00ff99;  /* Custom green */
+    --bs-secondary: #222222; /* Dark background */
+    --bs-body-bg: #111111;
+    --bs-body-color: #f1f1f1;
+  }
+/* Body aur HTML ko full height */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+/* Wrapper bana lo */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* full screen height */
+}
+
+/* Main content ko stretch karna */
+main, section.container {
+  flex: 1;
+}
+
+/* Footer hamesha neeche rahega */
+.custom-footer {
+  margin-top: auto;
+}
+
+  .cat-card {
+    text-decoration: none;
+    color: rgb(14, 105, 224); /* link ka color bhi normal rahe */
+  }
+  .cat-card:hover {
+    text-decoration: none; /* hover par bhi underline na aaye */
+    color: saddlebrown;
+}
+  /* Contact Form Custom Style */
+#contactForm {
+  background: linear-gradient(135deg, #6a11cb, #2575fc); /* Gradient background */
+  color: #fff; /* White text */
+}
+
+#contactForm .form-label {
+  font-weight: 600;
+  color: #ffe066; /* Label ka color golden */
+}
+
+#contactForm .form-control {
+  border-radius: 10px;
+  border: none;
+  box-shadow: none;
+}
+
+#contactForm .form-control:focus {
+  border: 2px solid #ffe066;
+  box-shadow: 0 0 8px rgba(255, 224, 102, 0.7);
+}
+
+#contactForm .btn-primary {
+  background-color: #ff512f;
+  border: none;
+  border-radius: 25px;
+  font-weight: 600;
+}
+
+#contactForm .btn-primary:hover {
+  background-color: #e94e77;
+}
+
+#contactForm .btn-outline-success {
+  border-radius: 25px;
+  font-weight: 600;
+  color: #28a745;
+  background: #fff;
+  border: 2px solid #28a745;
+}
+
+#contactForm .btn-outline-success:hover {
+  background: #28a745;
+  color: #fff;
+}
+/* Direct Contact Box */
+.direct-contact {
+  background: linear-gradient(135deg, #ff512f, #dd2476); /* Orange → Pink Gradient */
+  color: #fff; /* White text */
+  border-radius: 15px;
+}
+
+.direct-contact h5 {
+  color: #ffe066; /* Golden heading */
+  font-weight: 700;
+}
+
+.direct-contact a {
+  color: #fff;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.direct-contact a:hover {
+  color: #ffe066; /* Hover pe golden */
+}
+/* Neon card styling */
+.neon-card {
+  background: #111; /* dark background */
+  color: #0ff; /* default neon text */
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 0 0 15px rgba(0, 255, 255, 0.6),
+              0 0 30px rgba(0, 255, 255, 0.4),
+              0 0 45px rgba(0, 255, 255, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+/* Hover effect */
+.neon-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.9),
+              0 0 40px rgba(0, 255, 255, 0.7),
+              0 0 60px rgba(0, 255, 255, 0.5);
+}
+
+/* Neon headings */
+.neon-card h5 {
+  color: #0ff;
+  font-weight: bold;
+}
+
+/* Neon paragraph */
+.neon-card p, 
+.neon-card a {
+  color: #fff;
+}

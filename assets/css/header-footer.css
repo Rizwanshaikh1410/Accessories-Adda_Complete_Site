@@ -1,0 +1,83 @@
+/* 🌟 Navbar Custom Style */
+.navbar {
+  background: linear-gradient(135deg, #1B1F1F, #6D7373); /* Orange → Pink Gradient */
+}
+
+.navbar .navbar-brand {
+  color: #0A8C8C !important;
+  font-weight: 700;
+  letter-spacing: 1px;
+}
+
+.navbar .nav-link {
+  color: #0A8C8C !important;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.navbar .nav-link:hover {
+  color: #11CFCF !important; /* Golden hover */
+  transform: scale(1.05);
+}
+/* Dropdown ka background color */
+.navbar .dropdown-menu {
+  background: linear-gradient(135deg, #1B1F1F, #6D7373); /* dark blue/black tone */
+  border: none;
+  border-radius: 0.5rem;
+}
+
+/* Dropdown item ka text aur hover effect */
+.navbar .dropdown-item {
+  color: #0A8C8C; /* light text */
+  transition: all 0.2s ease-in-out;
+}
+
+.navbar .dropdown-item:hover {
+  background: #8230AB; /* orange/red hover */
+  color: #11CFCF;
+}
+/* Search button styling */
+.navbar .btn-outline-light {
+  border-color: #fff;
+  color: #fff;
+  transition: all 0.3s ease;
+}
+.navbar .btn-outline-light:hover {
+  background-color: #ffe066;
+  color: #333;
+  border-color: #ffe066;
+}
+
+/* 🌟 Footer Custom Style (same gradient as navbar) */
+.custom-footer {
+  background: linear-gradient(135deg, #1B1F1F, #6D7373);
+  color: #0A8C8C;
+}
+
+.custom-footer h5{
+  color: #ED0993;
+  font-weight: bolder;
+}
+.custom-footer h6 {
+  color: #ED0993; /* Golden headings */
+  font-weight: bolder;
+}
+
+.custom-footer a {
+  color: #ED0993;
+  transition: color 0.3s ease;
+  text-decoration: none;
+}
+
+.custom-footer a:hover {
+  color: #0A8C8C;
+}
+
+.footer-neon {
+  color: #0ff; /* Cyan Neon Color */
+  text-shadow: 0 0 5px #0ff,
+               0 0 10px #0ff,
+               0 0 20px #0ff,
+               0 0 40px #0ff;
+  font-weight: bold;
+}

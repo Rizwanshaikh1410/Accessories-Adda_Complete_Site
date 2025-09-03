@@ -1,0 +1,6743 @@
+[
+  {
+    "id": 1001,
+    "name": "Store opening Discount #001",
+    "brand": "AddaShield",
+    "category": "Cables",
+    "price": 0,
+    "mrp": 499,
+    "rating": 3.6,
+    "stock": 193,
+    "tags": [
+      "bestseller",
+      "hot",
+      "slim"
+    ],
+    "images": [
+      "/assets/Banner/Poster/ChatGPT Image Aug 26, 2025, 11_23_40 AM.png",
+      "/assets/Banner/Poster/Combo+Glass+Cover=Offer.png"
+    ],
+    "description": "AddaShield Type-C Cable #001 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1002,
+    "name": "Mobile Gaming Triggers #002",
+    "brand": "AddaShield",
+    "category": "Gaming Triggers",
+    "price": 159,
+    "mrp": 180,
+    "rating": 3.6,
+    "stock": 159,
+    "tags": [
+      "premium",
+      "fast-charge",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#002",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#002"
+    ],
+    "description": "AddaShield Mobile Gaming Triggers #002 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1003,
+    "name": "Mobile Gaming Triggers #003",
+    "brand": "VoltMax",
+    "category": "Gaming Triggers",
+    "price": 429,
+    "mrp": 590,
+    "rating": 4.7,
+    "stock": 6,
+    "tags": [
+      "durable",
+      "micro-usb",
+      "gaming-triggers"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#003",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#003"
+    ],
+    "description": "VoltMax Mobile Gaming Triggers #003 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1004,
+    "name": "Magnetic Car Mount #004",
+    "brand": "NanoGuard",
+    "category": "Car Mounts",
+    "price": 469,
+    "mrp": 740,
+    "rating": 3.8,
+    "stock": 28,
+    "tags": [
+      "type-c",
+      "bestseller",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#004",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#004"
+    ],
+    "description": "NanoGuard Magnetic Car Mount #004 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1005,
+    "name": "MicroSD Card #005",
+    "brand": "AirWave",
+    "category": "Memory Cards",
+    "price": 969,
+    "mrp": 1450,
+    "rating": 4.5,
+    "stock": 142,
+    "tags": [
+      "bestseller",
+      "type-c",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#005",
+      "https://placehold.co/400x400?text=MicroSD+Card+#005"
+    ],
+    "description": "AirWave MicroSD Card #005 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1006,
+    "name": "Silicone Strap #006",
+    "brand": "TunePod",
+    "category": "Smartwatch Straps",
+    "price": 949,
+    "mrp": 1330,
+    "rating": 4.8,
+    "stock": 152,
+    "tags": [
+      "fast-charge",
+      "hot",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#006",
+      "https://placehold.co/400x400?text=Silicone+Strap+#006"
+    ],
+    "description": "TunePod Silicone Strap #006 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1007,
+    "name": "Portable Bluetooth Speaker #007",
+    "brand": "ChargeGo",
+    "category": "Bluetooth Speakers",
+    "price": 2379,
+    "mrp": 3780,
+    "rating": 4.7,
+    "stock": 30,
+    "tags": [
+      "type-c",
+      "wireless",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#007",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#007"
+    ],
+    "description": "ChargeGo Portable Bluetooth Speaker #007 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1008,
+    "name": "MicroSD Card #008",
+    "brand": "NanoGuard",
+    "category": "Memory Cards",
+    "price": 1239,
+    "mrp": 1580,
+    "rating": 4.4,
+    "stock": 184,
+    "tags": [
+      "hot",
+      "durable",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#008",
+      "https://placehold.co/400x400?text=MicroSD+Card+#008"
+    ],
+    "description": "NanoGuard MicroSD Card #008 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1009,
+    "name": "Portable Bluetooth Speaker #009",
+    "brand": "NanoGuard",
+    "category": "Bluetooth Speakers",
+    "price": 3259,
+    "mrp": 4200,
+    "rating": 5.0,
+    "stock": 168,
+    "tags": [
+      "gaming",
+      "matte",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#009",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#009"
+    ],
+    "description": "NanoGuard Portable Bluetooth Speaker #009 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1010,
+    "name": "9H Tempered Glass #010",
+    "brand": "VoltMax",
+    "category": "Screen Guards",
+    "price": 89,
+    "mrp": 130,
+    "rating": 3.9,
+    "stock": 21,
+    "tags": [
+      "fast-charge",
+      "matte",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#010",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#010"
+    ],
+    "description": "VoltMax 9H Tempered Glass #010 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1011,
+    "name": "USB Hub #011",
+    "brand": "GripMate",
+    "category": "USB Hubs",
+    "price": 1429,
+    "mrp": 2220,
+    "rating": 4.0,
+    "stock": 72,
+    "tags": [
+      "discount",
+      "gaming",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#011",
+      "https://placehold.co/400x400?text=USB+Hub+#011"
+    ],
+    "description": "GripMate USB Hub #011 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1012,
+    "name": "Magnetic Car Mount #012",
+    "brand": "ArmorX",
+    "category": "Car Mounts",
+    "price": 939,
+    "mrp": 1230,
+    "rating": 4.3,
+    "stock": 97,
+    "tags": [
+      "gaming",
+      "discount",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#012",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#012"
+    ],
+    "description": "ArmorX Magnetic Car Mount #012 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1013,
+    "name": "USB Hub #013",
+    "brand": "CaseCraft",
+    "category": "USB Hubs",
+    "price": 1259,
+    "mrp": 1410,
+    "rating": 3.4,
+    "stock": 165,
+    "tags": [
+      "durable",
+      "micro-usb",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#013",
+      "https://placehold.co/400x400?text=USB+Hub+#013"
+    ],
+    "description": "CaseCraft USB Hub #013 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1014,
+    "name": "Wall Charger #014",
+    "brand": "GripMate",
+    "category": "Chargers",
+    "price": 679,
+    "mrp": 940,
+    "rating": 4.0,
+    "stock": 69,
+    "tags": [
+      "premium",
+      "bestseller",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#014",
+      "https://placehold.co/400x400?text=Wall+Charger+#014"
+    ],
+    "description": "GripMate Wall Charger #014 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1015,
+    "name": "Magnetic Car Mount #015",
+    "brand": "ChargeGo",
+    "category": "Car Mounts",
+    "price": 629,
+    "mrp": 720,
+    "rating": 4.0,
+    "stock": 121,
+    "tags": [
+      "premium",
+      "wireless",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#015",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#015"
+    ],
+    "description": "ChargeGo Magnetic Car Mount #015 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1016,
+    "name": "True Wireless Earbuds #016",
+    "brand": "FlexiWire",
+    "category": "Earbuds",
+    "price": 1339,
+    "mrp": 2050,
+    "rating": 3.7,
+    "stock": 168,
+    "tags": [
+      "earbuds",
+      "fast-charge",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#016",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#016"
+    ],
+    "description": "FlexiWire True Wireless Earbuds #016 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1017,
+    "name": "MicroSD Card #017",
+    "brand": "ChargeGo",
+    "category": "Memory Cards",
+    "price": 709,
+    "mrp": 970,
+    "rating": 4.6,
+    "stock": 140,
+    "tags": [
+      "premium",
+      "matte",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#017",
+      "https://placehold.co/400x400?text=MicroSD+Card+#017"
+    ],
+    "description": "ChargeGo MicroSD Card #017 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1018,
+    "name": "Protective Back Cover #018",
+    "brand": "CaseCraft",
+    "category": "Back Covers",
+    "price": 389,
+    "mrp": 490,
+    "rating": 5.0,
+    "stock": 83,
+    "tags": [
+      "gaming",
+      "new",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#018",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#018"
+    ],
+    "description": "CaseCraft Protective Back Cover #018 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1019,
+    "name": "Wall Charger #019",
+    "brand": "CaseCraft",
+    "category": "Chargers",
+    "price": 819,
+    "mrp": 1230,
+    "rating": 5.0,
+    "stock": 141,
+    "tags": [
+      "discount",
+      "chargers",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#019",
+      "https://placehold.co/400x400?text=Wall+Charger+#019"
+    ],
+    "description": "CaseCraft Wall Charger #019 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1020,
+    "name": "USB Hub #020",
+    "brand": "FlexiWire",
+    "category": "USB Hubs",
+    "price": 509,
+    "mrp": 620,
+    "rating": 4.8,
+    "stock": 113,
+    "tags": [
+      "fast-charge",
+      "usb-hubs",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#020",
+      "https://placehold.co/400x400?text=USB+Hub+#020"
+    ],
+    "description": "FlexiWire USB Hub #020 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1021,
+    "name": "Silicone Strap #021",
+    "brand": "GripMate",
+    "category": "Smartwatch Straps",
+    "price": 979,
+    "mrp": 1250,
+    "rating": 4.8,
+    "stock": 120,
+    "tags": [
+      "bestseller",
+      "gaming",
+      "smartwatch-straps"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#021",
+      "https://placehold.co/400x400?text=Silicone+Strap+#021"
+    ],
+    "description": "GripMate Silicone Strap #021 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1022,
+    "name": "Wall Charger #022",
+    "brand": "BassBeat",
+    "category": "Chargers",
+    "price": 219,
+    "mrp": 300,
+    "rating": 3.6,
+    "stock": 61,
+    "tags": [
+      "premium",
+      "hot",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#022",
+      "https://placehold.co/400x400?text=Wall+Charger+#022"
+    ],
+    "description": "BassBeat Wall Charger #022 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1023,
+    "name": "9H Tempered Glass #023",
+    "brand": "VoltMax",
+    "category": "Screen Guards",
+    "price": 99,
+    "mrp": 150,
+    "rating": 4.7,
+    "stock": 23,
+    "tags": [
+      "screen-guards",
+      "gaming",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#023",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#023"
+    ],
+    "description": "VoltMax 9H Tempered Glass #023 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1024,
+    "name": "USB Hub #024",
+    "brand": "VoltMax",
+    "category": "USB Hubs",
+    "price": 989,
+    "mrp": 1150,
+    "rating": 4.9,
+    "stock": 151,
+    "tags": [
+      "universal",
+      "gaming",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#024",
+      "https://placehold.co/400x400?text=USB+Hub+#024"
+    ],
+    "description": "VoltMax USB Hub #024 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1025,
+    "name": "USB Hub #025",
+    "brand": "ChargeGo",
+    "category": "USB Hubs",
+    "price": 819,
+    "mrp": 970,
+    "rating": 3.4,
+    "stock": 115,
+    "tags": [
+      "glossy",
+      "micro-usb",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#025",
+      "https://placehold.co/400x400?text=USB+Hub+#025"
+    ],
+    "description": "ChargeGo USB Hub #025 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1026,
+    "name": "Fast Charger #026",
+    "brand": "TunePod",
+    "category": "Fast Chargers",
+    "price": 529,
+    "mrp": 760,
+    "rating": 5.0,
+    "stock": 30,
+    "tags": [
+      "new",
+      "type-c",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#026",
+      "https://placehold.co/400x400?text=Fast+Charger+#026"
+    ],
+    "description": "TunePod Fast Charger #026 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1027,
+    "name": "OTG Adapter #027",
+    "brand": "ChargeGo",
+    "category": "OTG & Adapters",
+    "price": 369,
+    "mrp": 420,
+    "rating": 3.5,
+    "stock": 142,
+    "tags": [
+      "lightning",
+      "discount",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#027",
+      "https://placehold.co/400x400?text=OTG+Adapter+#027"
+    ],
+    "description": "ChargeGo OTG Adapter #027 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1028,
+    "name": "True Wireless Earbuds #028",
+    "brand": "SoundPulse",
+    "category": "Earbuds",
+    "price": 3159,
+    "mrp": 3860,
+    "rating": 4.9,
+    "stock": 118,
+    "tags": [
+      "bestseller",
+      "new",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#028",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#028"
+    ],
+    "description": "SoundPulse True Wireless Earbuds #028 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1029,
+    "name": "Protective Back Cover #029",
+    "brand": "CaseCraft",
+    "category": "Back Covers",
+    "price": 389,
+    "mrp": 570,
+    "rating": 3.6,
+    "stock": 109,
+    "tags": [
+      "universal",
+      "back-covers",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#029",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#029"
+    ],
+    "description": "CaseCraft Protective Back Cover #029 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1030,
+    "name": "Selfie Stick Tripod #030",
+    "brand": "EchoBox",
+    "category": "Selfie Sticks",
+    "price": 269,
+    "mrp": 310,
+    "rating": 3.2,
+    "stock": 104,
+    "tags": [
+      "wireless",
+      "lightning",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#030",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#030"
+    ],
+    "description": "EchoBox Selfie Stick Tripod #030 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1031,
+    "name": "Mobile Gaming Triggers #031",
+    "brand": "ArmorX",
+    "category": "Gaming Triggers",
+    "price": 609,
+    "mrp": 970,
+    "rating": 4.2,
+    "stock": 188,
+    "tags": [
+      "universal",
+      "discount",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#031",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#031"
+    ],
+    "description": "ArmorX Mobile Gaming Triggers #031 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1032,
+    "name": "Silicone Strap #032",
+    "brand": "VoltMax",
+    "category": "Smartwatch Straps",
+    "price": 219,
+    "mrp": 300,
+    "rating": 4.2,
+    "stock": 196,
+    "tags": [
+      "matte",
+      "new",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#032",
+      "https://placehold.co/400x400?text=Silicone+Strap+#032"
+    ],
+    "description": "VoltMax Silicone Strap #032 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1033,
+    "name": "USB Hub #033",
+    "brand": "FlexiWire",
+    "category": "USB Hubs",
+    "price": 1469,
+    "mrp": 2240,
+    "rating": 3.5,
+    "stock": 135,
+    "tags": [
+      "hot",
+      "durable",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#033",
+      "https://placehold.co/400x400?text=USB+Hub+#033"
+    ],
+    "description": "FlexiWire USB Hub #033 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1034,
+    "name": "Wall Charger #034",
+    "brand": "SnapFit",
+    "category": "Chargers",
+    "price": 499,
+    "mrp": 640,
+    "rating": 4.9,
+    "stock": 150,
+    "tags": [
+      "gaming",
+      "new",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#034",
+      "https://placehold.co/400x400?text=Wall+Charger+#034"
+    ],
+    "description": "SnapFit Wall Charger #034 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1035,
+    "name": "Wall Charger #035",
+    "brand": "GripMate",
+    "category": "Chargers",
+    "price": 939,
+    "mrp": 1290,
+    "rating": 3.8,
+    "stock": 71,
+    "tags": [
+      "fast-charge",
+      "matte",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#035",
+      "https://placehold.co/400x400?text=Wall+Charger+#035"
+    ],
+    "description": "GripMate Wall Charger #035 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1036,
+    "name": "Magnetic Car Mount #036",
+    "brand": "GripMate",
+    "category": "Car Mounts",
+    "price": 359,
+    "mrp": 510,
+    "rating": 3.7,
+    "stock": 85,
+    "tags": [
+      "hot",
+      "premium",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#036",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#036"
+    ],
+    "description": "GripMate Magnetic Car Mount #036 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1037,
+    "name": "Type-C Cable #037",
+    "brand": "CaseCraft",
+    "category": "Cables",
+    "price": 269,
+    "mrp": 320,
+    "rating": 3.7,
+    "stock": 94,
+    "tags": [
+      "hot",
+      "gaming",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#037",
+      "https://placehold.co/400x400?text=Type-C+Cable+#037"
+    ],
+    "description": "CaseCraft Type-C Cable #037 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1038,
+    "name": "Silicone Strap #038",
+    "brand": "NanoGuard",
+    "category": "Smartwatch Straps",
+    "price": 709,
+    "mrp": 1070,
+    "rating": 4.5,
+    "stock": 161,
+    "tags": [
+      "smartwatch-straps",
+      "premium",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#038",
+      "https://placehold.co/400x400?text=Silicone+Strap+#038"
+    ],
+    "description": "NanoGuard Silicone Strap #038 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1039,
+    "name": "Silicone Strap #039",
+    "brand": "EchoBox",
+    "category": "Smartwatch Straps",
+    "price": 989,
+    "mrp": 1130,
+    "rating": 4.8,
+    "stock": 72,
+    "tags": [
+      "bestseller",
+      "smartwatch-straps",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#039",
+      "https://placehold.co/400x400?text=Silicone+Strap+#039"
+    ],
+    "description": "EchoBox Silicone Strap #039 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1040,
+    "name": "Power Bank #040",
+    "brand": "SoundPulse",
+    "category": "Power Banks",
+    "price": 1519,
+    "mrp": 2130,
+    "rating": 4.5,
+    "stock": 57,
+    "tags": [
+      "wireless",
+      "universal",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#040",
+      "https://placehold.co/400x400?text=Power+Bank+#040"
+    ],
+    "description": "SoundPulse Power Bank #040 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1041,
+    "name": "9H Tempered Glass #041",
+    "brand": "CaseCraft",
+    "category": "Screen Guards",
+    "price": 279,
+    "mrp": 360,
+    "rating": 3.7,
+    "stock": 5,
+    "tags": [
+      "matte",
+      "discount",
+      "screen-guards"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#041",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#041"
+    ],
+    "description": "CaseCraft 9H Tempered Glass #041 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1042,
+    "name": "Magnetic Car Mount #042",
+    "brand": "NanoGuard",
+    "category": "Car Mounts",
+    "price": 759,
+    "mrp": 1040,
+    "rating": 4.0,
+    "stock": 7,
+    "tags": [
+      "bestseller",
+      "hot",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#042",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#042"
+    ],
+    "description": "NanoGuard Magnetic Car Mount #042 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1043,
+    "name": "Power Bank #043",
+    "brand": "FlexiWire",
+    "category": "Power Banks",
+    "price": 889,
+    "mrp": 1340,
+    "rating": 4.2,
+    "stock": 42,
+    "tags": [
+      "micro-usb",
+      "discount",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#043",
+      "https://placehold.co/400x400?text=Power+Bank+#043"
+    ],
+    "description": "FlexiWire Power Bank #043 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1044,
+    "name": "Silicone Strap #044",
+    "brand": "BassBeat",
+    "category": "Smartwatch Straps",
+    "price": 199,
+    "mrp": 300,
+    "rating": 3.6,
+    "stock": 68,
+    "tags": [
+      "bestseller",
+      "glossy",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#044",
+      "https://placehold.co/400x400?text=Silicone+Strap+#044"
+    ],
+    "description": "BassBeat Silicone Strap #044 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1045,
+    "name": "Mobile Gaming Triggers #045",
+    "brand": "AirWave",
+    "category": "Gaming Triggers",
+    "price": 619,
+    "mrp": 720,
+    "rating": 4.9,
+    "stock": 46,
+    "tags": [
+      "durable",
+      "micro-usb",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#045",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#045"
+    ],
+    "description": "AirWave Mobile Gaming Triggers #045 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1046,
+    "name": "True Wireless Earbuds #046",
+    "brand": "ArmorX",
+    "category": "Earbuds",
+    "price": 2499,
+    "mrp": 3720,
+    "rating": 3.9,
+    "stock": 176,
+    "tags": [
+      "gaming",
+      "wireless",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#046",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#046"
+    ],
+    "description": "ArmorX True Wireless Earbuds #046 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1047,
+    "name": "Type-C Cable #047",
+    "brand": "GripMate",
+    "category": "Cables",
+    "price": 369,
+    "mrp": 410,
+    "rating": 4.0,
+    "stock": 56,
+    "tags": [
+      "lightning",
+      "glossy",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#047",
+      "https://placehold.co/400x400?text=Type-C+Cable+#047"
+    ],
+    "description": "GripMate Type-C Cable #047 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1048,
+    "name": "Portable Bluetooth Speaker #048",
+    "brand": "VoltMax",
+    "category": "Bluetooth Speakers",
+    "price": 1019,
+    "mrp": 1450,
+    "rating": 3.9,
+    "stock": 76,
+    "tags": [
+      "hot",
+      "wireless",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#048",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#048"
+    ],
+    "description": "VoltMax Portable Bluetooth Speaker #048 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1049,
+    "name": "Selfie Stick Tripod #049",
+    "brand": "SnapFit",
+    "category": "Selfie Sticks",
+    "price": 879,
+    "mrp": 1110,
+    "rating": 3.2,
+    "stock": 71,
+    "tags": [
+      "durable",
+      "wireless",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#049",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#049"
+    ],
+    "description": "SnapFit Selfie Stick Tripod #049 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1050,
+    "name": "Type-C Cable #050",
+    "brand": "AirWave",
+    "category": "Cables",
+    "price": 229,
+    "mrp": 290,
+    "rating": 4.6,
+    "stock": 116,
+    "tags": [
+      "cables",
+      "bestseller",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#050",
+      "https://placehold.co/400x400?text=Type-C+Cable+#050"
+    ],
+    "description": "AirWave Type-C Cable #050 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1051,
+    "name": "Bluetooth Neckband #051",
+    "brand": "SoundPulse",
+    "category": "Neckbands",
+    "price": 609,
+    "mrp": 880,
+    "rating": 3.2,
+    "stock": 142,
+    "tags": [
+      "fast-charge",
+      "glossy",
+      "neckbands"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#051",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#051"
+    ],
+    "description": "SoundPulse Bluetooth Neckband #051 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1052,
+    "name": "Wall Charger #052",
+    "brand": "SnapFit",
+    "category": "Chargers",
+    "price": 619,
+    "mrp": 870,
+    "rating": 4.4,
+    "stock": 36,
+    "tags": [
+      "slim",
+      "chargers",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#052",
+      "https://placehold.co/400x400?text=Wall+Charger+#052"
+    ],
+    "description": "SnapFit Wall Charger #052 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1053,
+    "name": "Mobile Gaming Triggers #053",
+    "brand": "BassBeat",
+    "category": "Gaming Triggers",
+    "price": 399,
+    "mrp": 570,
+    "rating": 4.2,
+    "stock": 54,
+    "tags": [
+      "micro-usb",
+      "type-c",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#053",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#053"
+    ],
+    "description": "BassBeat Mobile Gaming Triggers #053 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1054,
+    "name": "True Wireless Earbuds #054",
+    "brand": "AirWave",
+    "category": "Earbuds",
+    "price": 3709,
+    "mrp": 4630,
+    "rating": 4.2,
+    "stock": 5,
+    "tags": [
+      "slim",
+      "earbuds",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#054",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#054"
+    ],
+    "description": "AirWave True Wireless Earbuds #054 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1055,
+    "name": "Mobile Gaming Triggers #055",
+    "brand": "ChargeGo",
+    "category": "Gaming Triggers",
+    "price": 519,
+    "mrp": 720,
+    "rating": 3.8,
+    "stock": 118,
+    "tags": [
+      "lightning",
+      "fast-charge",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#055",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#055"
+    ],
+    "description": "ChargeGo Mobile Gaming Triggers #055 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1056,
+    "name": "USB Hub #056",
+    "brand": "ChargeGo",
+    "category": "USB Hubs",
+    "price": 1449,
+    "mrp": 2280,
+    "rating": 4.5,
+    "stock": 173,
+    "tags": [
+      "hot",
+      "slim",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#056",
+      "https://placehold.co/400x400?text=USB+Hub+#056"
+    ],
+    "description": "ChargeGo USB Hub #056 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1057,
+    "name": "OTG Adapter #057",
+    "brand": "CaseCraft",
+    "category": "OTG & Adapters",
+    "price": 359,
+    "mrp": 560,
+    "rating": 3.6,
+    "stock": 84,
+    "tags": [
+      "gaming",
+      "fast-charge",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#057",
+      "https://placehold.co/400x400?text=OTG+Adapter+#057"
+    ],
+    "description": "CaseCraft OTG Adapter #057 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1058,
+    "name": "Protective Back Cover #058",
+    "brand": "AddaShield",
+    "category": "Back Covers",
+    "price": 169,
+    "mrp": 260,
+    "rating": 4.3,
+    "stock": 23,
+    "tags": [
+      "lightning",
+      "micro-usb",
+      "back-covers"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#058",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#058"
+    ],
+    "description": "AddaShield Protective Back Cover #058 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1059,
+    "name": "Bluetooth Neckband #059",
+    "brand": "ArmorX",
+    "category": "Neckbands",
+    "price": 1479,
+    "mrp": 1990,
+    "rating": 3.6,
+    "stock": 172,
+    "tags": [
+      "premium",
+      "bestseller",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#059",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#059"
+    ],
+    "description": "ArmorX Bluetooth Neckband #059 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1060,
+    "name": "Mobile Gaming Triggers #060",
+    "brand": "VoltMax",
+    "category": "Gaming Triggers",
+    "price": 259,
+    "mrp": 380,
+    "rating": 4.5,
+    "stock": 123,
+    "tags": [
+      "new",
+      "gaming",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#060",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#060"
+    ],
+    "description": "VoltMax Mobile Gaming Triggers #060 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1061,
+    "name": "Type-C Cable #061",
+    "brand": "PowerPro",
+    "category": "Cables",
+    "price": 139,
+    "mrp": 200,
+    "rating": 4.4,
+    "stock": 148,
+    "tags": [
+      "matte",
+      "lightning",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#061",
+      "https://placehold.co/400x400?text=Type-C+Cable+#061"
+    ],
+    "description": "PowerPro Type-C Cable #061 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1062,
+    "name": "Mobile Gaming Triggers #062",
+    "brand": "TunePod",
+    "category": "Gaming Triggers",
+    "price": 499,
+    "mrp": 660,
+    "rating": 3.5,
+    "stock": 126,
+    "tags": [
+      "lightning",
+      "wireless",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#062",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#062"
+    ],
+    "description": "TunePod Mobile Gaming Triggers #062 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1063,
+    "name": "Portable Bluetooth Speaker #063",
+    "brand": "TunePod",
+    "category": "Bluetooth Speakers",
+    "price": 4159,
+    "mrp": 5150,
+    "rating": 4.6,
+    "stock": 129,
+    "tags": [
+      "gaming",
+      "wireless",
+      "bluetooth-speakers"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#063",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#063"
+    ],
+    "description": "TunePod Portable Bluetooth Speaker #063 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1064,
+    "name": "Wall Charger #064",
+    "brand": "ArmorX",
+    "category": "Chargers",
+    "price": 559,
+    "mrp": 680,
+    "rating": 3.8,
+    "stock": 143,
+    "tags": [
+      "hot",
+      "discount",
+      "chargers"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#064",
+      "https://placehold.co/400x400?text=Wall+Charger+#064"
+    ],
+    "description": "ArmorX Wall Charger #064 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1065,
+    "name": "Portable Bluetooth Speaker #065",
+    "brand": "GripMate",
+    "category": "Bluetooth Speakers",
+    "price": 4449,
+    "mrp": 5230,
+    "rating": 3.6,
+    "stock": 111,
+    "tags": [
+      "micro-usb",
+      "matte",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#065",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#065"
+    ],
+    "description": "GripMate Portable Bluetooth Speaker #065 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1066,
+    "name": "Fast Charger #066",
+    "brand": "GripMate",
+    "category": "Fast Chargers",
+    "price": 549,
+    "mrp": 660,
+    "rating": 4.0,
+    "stock": 154,
+    "tags": [
+      "premium",
+      "type-c",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#066",
+      "https://placehold.co/400x400?text=Fast+Charger+#066"
+    ],
+    "description": "GripMate Fast Charger #066 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1067,
+    "name": "Protective Back Cover #067",
+    "brand": "BassBeat",
+    "category": "Back Covers",
+    "price": 189,
+    "mrp": 270,
+    "rating": 4.7,
+    "stock": 112,
+    "tags": [
+      "gaming",
+      "universal",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#067",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#067"
+    ],
+    "description": "BassBeat Protective Back Cover #067 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1068,
+    "name": "Magnetic Car Mount #068",
+    "brand": "GripMate",
+    "category": "Car Mounts",
+    "price": 819,
+    "mrp": 910,
+    "rating": 3.8,
+    "stock": 178,
+    "tags": [
+      "type-c",
+      "durable",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#068",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#068"
+    ],
+    "description": "GripMate Magnetic Car Mount #068 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1069,
+    "name": "Fast Charger #069",
+    "brand": "EchoBox",
+    "category": "Fast Chargers",
+    "price": 719,
+    "mrp": 1140,
+    "rating": 4.2,
+    "stock": 105,
+    "tags": [
+      "premium",
+      "hot",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#069",
+      "https://placehold.co/400x400?text=Fast+Charger+#069"
+    ],
+    "description": "EchoBox Fast Charger #069 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1070,
+    "name": "Mobile Gaming Triggers #070",
+    "brand": "NanoGuard",
+    "category": "Gaming Triggers",
+    "price": 439,
+    "mrp": 520,
+    "rating": 3.7,
+    "stock": 88,
+    "tags": [
+      "fast-charge",
+      "lightning",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#070",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#070"
+    ],
+    "description": "NanoGuard Mobile Gaming Triggers #070 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1071,
+    "name": "OTG Adapter #071",
+    "brand": "ChargeGo",
+    "category": "OTG & Adapters",
+    "price": 379,
+    "mrp": 480,
+    "rating": 4.6,
+    "stock": 112,
+    "tags": [
+      "wireless",
+      "hot",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#071",
+      "https://placehold.co/400x400?text=OTG+Adapter+#071"
+    ],
+    "description": "ChargeGo OTG Adapter #071 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1072,
+    "name": "Protective Back Cover #072",
+    "brand": "ArmorX",
+    "category": "Back Covers",
+    "price": 269,
+    "mrp": 300,
+    "rating": 4.9,
+    "stock": 62,
+    "tags": [
+      "hot",
+      "new",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#072",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#072"
+    ],
+    "description": "ArmorX Protective Back Cover #072 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1073,
+    "name": "Protective Back Cover #073",
+    "brand": "VoltMax",
+    "category": "Back Covers",
+    "price": 159,
+    "mrp": 240,
+    "rating": 4.3,
+    "stock": 66,
+    "tags": [
+      "discount",
+      "universal",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#073",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#073"
+    ],
+    "description": "VoltMax Protective Back Cover #073 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1074,
+    "name": "Type-C Cable #074",
+    "brand": "AirWave",
+    "category": "Cables",
+    "price": 159,
+    "mrp": 210,
+    "rating": 3.7,
+    "stock": 99,
+    "tags": [
+      "durable",
+      "bestseller",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#074",
+      "https://placehold.co/400x400?text=Type-C+Cable+#074"
+    ],
+    "description": "AirWave Type-C Cable #074 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1075,
+    "name": "True Wireless Earbuds #075",
+    "brand": "SoundPulse",
+    "category": "Earbuds",
+    "price": 1349,
+    "mrp": 1870,
+    "rating": 4.9,
+    "stock": 152,
+    "tags": [
+      "type-c",
+      "earbuds",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#075",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#075"
+    ],
+    "description": "SoundPulse True Wireless Earbuds #075 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1076,
+    "name": "Bluetooth Neckband #076",
+    "brand": "CaseCraft",
+    "category": "Neckbands",
+    "price": 1119,
+    "mrp": 1280,
+    "rating": 4.6,
+    "stock": 180,
+    "tags": [
+      "bestseller",
+      "new",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#076",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#076"
+    ],
+    "description": "CaseCraft Bluetooth Neckband #076 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1077,
+    "name": "Mobile Gaming Triggers #077",
+    "brand": "SnapFit",
+    "category": "Gaming Triggers",
+    "price": 379,
+    "mrp": 420,
+    "rating": 4.4,
+    "stock": 8,
+    "tags": [
+      "micro-usb",
+      "universal",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#077",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#077"
+    ],
+    "description": "SnapFit Mobile Gaming Triggers #077 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1078,
+    "name": "Mobile Gaming Triggers #078",
+    "brand": "BassBeat",
+    "category": "Gaming Triggers",
+    "price": 549,
+    "mrp": 840,
+    "rating": 4.0,
+    "stock": 44,
+    "tags": [
+      "micro-usb",
+      "durable",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#078",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#078"
+    ],
+    "description": "BassBeat Mobile Gaming Triggers #078 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1079,
+    "name": "Magnetic Car Mount #079",
+    "brand": "AirWave",
+    "category": "Car Mounts",
+    "price": 879,
+    "mrp": 1300,
+    "rating": 4.0,
+    "stock": 192,
+    "tags": [
+      "wireless",
+      "matte",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#079",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#079"
+    ],
+    "description": "AirWave Magnetic Car Mount #079 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1080,
+    "name": "Portable Bluetooth Speaker #080",
+    "brand": "TunePod",
+    "category": "Bluetooth Speakers",
+    "price": 1339,
+    "mrp": 1650,
+    "rating": 4.0,
+    "stock": 197,
+    "tags": [
+      "lightning",
+      "type-c",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#080",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#080"
+    ],
+    "description": "TunePod Portable Bluetooth Speaker #080 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1081,
+    "name": "Protective Back Cover #081",
+    "brand": "PowerPro",
+    "category": "Back Covers",
+    "price": 369,
+    "mrp": 460,
+    "rating": 4.1,
+    "stock": 95,
+    "tags": [
+      "wireless",
+      "matte",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#081",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#081"
+    ],
+    "description": "PowerPro Protective Back Cover #081 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1082,
+    "name": "Magnetic Car Mount #082",
+    "brand": "FlexiWire",
+    "category": "Car Mounts",
+    "price": 209,
+    "mrp": 280,
+    "rating": 3.5,
+    "stock": 66,
+    "tags": [
+      "micro-usb",
+      "universal",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#082",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#082"
+    ],
+    "description": "FlexiWire Magnetic Car Mount #082 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1083,
+    "name": "Portable Bluetooth Speaker #083",
+    "brand": "ArmorX",
+    "category": "Bluetooth Speakers",
+    "price": 3329,
+    "mrp": 4730,
+    "rating": 4.1,
+    "stock": 9,
+    "tags": [
+      "hot",
+      "slim",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#083",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#083"
+    ],
+    "description": "ArmorX Portable Bluetooth Speaker #083 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1084,
+    "name": "Selfie Stick Tripod #084",
+    "brand": "ArmorX",
+    "category": "Selfie Sticks",
+    "price": 509,
+    "mrp": 630,
+    "rating": 4.2,
+    "stock": 126,
+    "tags": [
+      "selfie-sticks",
+      "glossy",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#084",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#084"
+    ],
+    "description": "ArmorX Selfie Stick Tripod #084 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1085,
+    "name": "OTG Adapter #085",
+    "brand": "BassBeat",
+    "category": "OTG & Adapters",
+    "price": 319,
+    "mrp": 420,
+    "rating": 3.8,
+    "stock": 64,
+    "tags": [
+      "bestseller",
+      "fast-charge",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#085",
+      "https://placehold.co/400x400?text=OTG+Adapter+#085"
+    ],
+    "description": "BassBeat OTG Adapter #085 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1086,
+    "name": "Type-C Cable #086",
+    "brand": "ArmorX",
+    "category": "Cables",
+    "price": 269,
+    "mrp": 420,
+    "rating": 4.4,
+    "stock": 54,
+    "tags": [
+      "fast-charge",
+      "universal",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#086",
+      "https://placehold.co/400x400?text=Type-C+Cable+#086"
+    ],
+    "description": "ArmorX Type-C Cable #086 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1087,
+    "name": "Silicone Strap #087",
+    "brand": "CaseCraft",
+    "category": "Smartwatch Straps",
+    "price": 389,
+    "mrp": 480,
+    "rating": 3.8,
+    "stock": 82,
+    "tags": [
+      "premium",
+      "discount",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#087",
+      "https://placehold.co/400x400?text=Silicone+Strap+#087"
+    ],
+    "description": "CaseCraft Silicone Strap #087 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1088,
+    "name": "9H Tempered Glass #088",
+    "brand": "AddaShield",
+    "category": "Screen Guards",
+    "price": 249,
+    "mrp": 310,
+    "rating": 4.9,
+    "stock": 168,
+    "tags": [
+      "universal",
+      "bestseller",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#088",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#088"
+    ],
+    "description": "AddaShield 9H Tempered Glass #088 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1089,
+    "name": "Protective Back Cover #089",
+    "brand": "AirWave",
+    "category": "Back Covers",
+    "price": 189,
+    "mrp": 250,
+    "rating": 4.0,
+    "stock": 52,
+    "tags": [
+      "new",
+      "wireless",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#089",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#089"
+    ],
+    "description": "AirWave Protective Back Cover #089 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1090,
+    "name": "USB Hub #090",
+    "brand": "CaseCraft",
+    "category": "USB Hubs",
+    "price": 1349,
+    "mrp": 1520,
+    "rating": 4.1,
+    "stock": 152,
+    "tags": [
+      "new",
+      "discount",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#090",
+      "https://placehold.co/400x400?text=USB+Hub+#090"
+    ],
+    "description": "CaseCraft USB Hub #090 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1091,
+    "name": "Silicone Strap #091",
+    "brand": "CaseCraft",
+    "category": "Smartwatch Straps",
+    "price": 459,
+    "mrp": 530,
+    "rating": 4.6,
+    "stock": 160,
+    "tags": [
+      "gaming",
+      "type-c",
+      "smartwatch-straps"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#091",
+      "https://placehold.co/400x400?text=Silicone+Strap+#091"
+    ],
+    "description": "CaseCraft Silicone Strap #091 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1092,
+    "name": "Fast Charger #092",
+    "brand": "SoundPulse",
+    "category": "Fast Chargers",
+    "price": 1899,
+    "mrp": 3020,
+    "rating": 3.7,
+    "stock": 163,
+    "tags": [
+      "new",
+      "bestseller",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#092",
+      "https://placehold.co/400x400?text=Fast+Charger+#092"
+    ],
+    "description": "SoundPulse Fast Charger #092 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1093,
+    "name": "Bluetooth Neckband #093",
+    "brand": "SnapFit",
+    "category": "Neckbands",
+    "price": 1039,
+    "mrp": 1280,
+    "rating": 3.3,
+    "stock": 66,
+    "tags": [
+      "durable",
+      "hot",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#093",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#093"
+    ],
+    "description": "SnapFit Bluetooth Neckband #093 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1094,
+    "name": "Protective Back Cover #094",
+    "brand": "GripMate",
+    "category": "Back Covers",
+    "price": 239,
+    "mrp": 340,
+    "rating": 4.0,
+    "stock": 13,
+    "tags": [
+      "gaming",
+      "slim",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#094",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#094"
+    ],
+    "description": "GripMate Protective Back Cover #094 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1095,
+    "name": "Silicone Strap #095",
+    "brand": "ArmorX",
+    "category": "Smartwatch Straps",
+    "price": 729,
+    "mrp": 820,
+    "rating": 3.6,
+    "stock": 72,
+    "tags": [
+      "fast-charge",
+      "micro-usb",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#095",
+      "https://placehold.co/400x400?text=Silicone+Strap+#095"
+    ],
+    "description": "ArmorX Silicone Strap #095 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1096,
+    "name": "Portable Bluetooth Speaker #096",
+    "brand": "SnapFit",
+    "category": "Bluetooth Speakers",
+    "price": 1659,
+    "mrp": 2570,
+    "rating": 4.7,
+    "stock": 23,
+    "tags": [
+      "new",
+      "durable",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#096",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#096"
+    ],
+    "description": "SnapFit Portable Bluetooth Speaker #096 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1097,
+    "name": "Silicone Strap #097",
+    "brand": "AirWave",
+    "category": "Smartwatch Straps",
+    "price": 869,
+    "mrp": 1350,
+    "rating": 4.0,
+    "stock": 124,
+    "tags": [
+      "slim",
+      "type-c",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#097",
+      "https://placehold.co/400x400?text=Silicone+Strap+#097"
+    ],
+    "description": "AirWave Silicone Strap #097 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1098,
+    "name": "USB Hub #098",
+    "brand": "PowerPro",
+    "category": "USB Hubs",
+    "price": 399,
+    "mrp": 550,
+    "rating": 4.8,
+    "stock": 193,
+    "tags": [
+      "matte",
+      "wireless",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#098",
+      "https://placehold.co/400x400?text=USB+Hub+#098"
+    ],
+    "description": "PowerPro USB Hub #098 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1099,
+    "name": "Wall Charger #099",
+    "brand": "VoltMax",
+    "category": "Chargers",
+    "price": 929,
+    "mrp": 1290,
+    "rating": 3.2,
+    "stock": 200,
+    "tags": [
+      "wireless",
+      "new",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#099",
+      "https://placehold.co/400x400?text=Wall+Charger+#099"
+    ],
+    "description": "VoltMax Wall Charger #099 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1100,
+    "name": "True Wireless Earbuds #100",
+    "brand": "PowerPro",
+    "category": "Earbuds",
+    "price": 3449,
+    "mrp": 4910,
+    "rating": 4.8,
+    "stock": 51,
+    "tags": [
+      "micro-usb",
+      "universal",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#100",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#100"
+    ],
+    "description": "PowerPro True Wireless Earbuds #100 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1101,
+    "name": "USB Hub #101",
+    "brand": "BassBeat",
+    "category": "USB Hubs",
+    "price": 819,
+    "mrp": 1030,
+    "rating": 4.4,
+    "stock": 46,
+    "tags": [
+      "matte",
+      "micro-usb",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#101",
+      "https://placehold.co/400x400?text=USB+Hub+#101"
+    ],
+    "description": "BassBeat USB Hub #101 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1102,
+    "name": "USB Hub #102",
+    "brand": "SoundPulse",
+    "category": "USB Hubs",
+    "price": 1139,
+    "mrp": 1790,
+    "rating": 4.7,
+    "stock": 145,
+    "tags": [
+      "new",
+      "lightning",
+      "usb-hubs"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#102",
+      "https://placehold.co/400x400?text=USB+Hub+#102"
+    ],
+    "description": "SoundPulse USB Hub #102 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1103,
+    "name": "OTG Adapter #103",
+    "brand": "SoundPulse",
+    "category": "OTG & Adapters",
+    "price": 199,
+    "mrp": 230,
+    "rating": 4.6,
+    "stock": 136,
+    "tags": [
+      "premium",
+      "lightning",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#103",
+      "https://placehold.co/400x400?text=OTG+Adapter+#103"
+    ],
+    "description": "SoundPulse OTG Adapter #103 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1104,
+    "name": "9H Tempered Glass #104",
+    "brand": "VoltMax",
+    "category": "Screen Guards",
+    "price": 239,
+    "mrp": 300,
+    "rating": 4.6,
+    "stock": 165,
+    "tags": [
+      "lightning",
+      "new",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#104",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#104"
+    ],
+    "description": "VoltMax 9H Tempered Glass #104 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1105,
+    "name": "Magnetic Car Mount #105",
+    "brand": "FlexiWire",
+    "category": "Car Mounts",
+    "price": 359,
+    "mrp": 560,
+    "rating": 4.0,
+    "stock": 183,
+    "tags": [
+      "universal",
+      "bestseller",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#105",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#105"
+    ],
+    "description": "FlexiWire Magnetic Car Mount #105 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1106,
+    "name": "Portable Bluetooth Speaker #106",
+    "brand": "ArmorX",
+    "category": "Bluetooth Speakers",
+    "price": 1709,
+    "mrp": 2140,
+    "rating": 3.2,
+    "stock": 109,
+    "tags": [
+      "hot",
+      "gaming",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#106",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#106"
+    ],
+    "description": "ArmorX Portable Bluetooth Speaker #106 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1107,
+    "name": "Type-C Cable #107",
+    "brand": "PowerPro",
+    "category": "Cables",
+    "price": 129,
+    "mrp": 180,
+    "rating": 3.5,
+    "stock": 188,
+    "tags": [
+      "slim",
+      "wireless",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#107",
+      "https://placehold.co/400x400?text=Type-C+Cable+#107"
+    ],
+    "description": "PowerPro Type-C Cable #107 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1108,
+    "name": "USB Hub #108",
+    "brand": "PowerPro",
+    "category": "USB Hubs",
+    "price": 609,
+    "mrp": 800,
+    "rating": 3.5,
+    "stock": 53,
+    "tags": [
+      "usb-hubs",
+      "discount",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#108",
+      "https://placehold.co/400x400?text=USB+Hub+#108"
+    ],
+    "description": "PowerPro USB Hub #108 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1109,
+    "name": "Wall Charger #109",
+    "brand": "SoundPulse",
+    "category": "Chargers",
+    "price": 729,
+    "mrp": 920,
+    "rating": 4.6,
+    "stock": 73,
+    "tags": [
+      "premium",
+      "slim",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#109",
+      "https://placehold.co/400x400?text=Wall+Charger+#109"
+    ],
+    "description": "SoundPulse Wall Charger #109 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1110,
+    "name": "Silicone Strap #110",
+    "brand": "TunePod",
+    "category": "Smartwatch Straps",
+    "price": 899,
+    "mrp": 1240,
+    "rating": 4.4,
+    "stock": 43,
+    "tags": [
+      "lightning",
+      "universal",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#110",
+      "https://placehold.co/400x400?text=Silicone+Strap+#110"
+    ],
+    "description": "TunePod Silicone Strap #110 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1111,
+    "name": "OTG Adapter #111",
+    "brand": "FlexiWire",
+    "category": "OTG & Adapters",
+    "price": 339,
+    "mrp": 460,
+    "rating": 4.0,
+    "stock": 87,
+    "tags": [
+      "fast-charge",
+      "gaming",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#111",
+      "https://placehold.co/400x400?text=OTG+Adapter+#111"
+    ],
+    "description": "FlexiWire OTG Adapter #111 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1112,
+    "name": "Selfie Stick Tripod #112",
+    "brand": "VoltMax",
+    "category": "Selfie Sticks",
+    "price": 719,
+    "mrp": 800,
+    "rating": 4.5,
+    "stock": 185,
+    "tags": [
+      "type-c",
+      "selfie-sticks",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#112",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#112"
+    ],
+    "description": "VoltMax Selfie Stick Tripod #112 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1113,
+    "name": "Power Bank #113",
+    "brand": "PowerPro",
+    "category": "Power Banks",
+    "price": 889,
+    "mrp": 1030,
+    "rating": 4.9,
+    "stock": 89,
+    "tags": [
+      "bestseller",
+      "lightning",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#113",
+      "https://placehold.co/400x400?text=Power+Bank+#113"
+    ],
+    "description": "PowerPro Power Bank #113 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1114,
+    "name": "Fast Charger #114",
+    "brand": "AddaShield",
+    "category": "Fast Chargers",
+    "price": 759,
+    "mrp": 990,
+    "rating": 4.4,
+    "stock": 44,
+    "tags": [
+      "hot",
+      "universal",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#114",
+      "https://placehold.co/400x400?text=Fast+Charger+#114"
+    ],
+    "description": "AddaShield Fast Charger #114 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1115,
+    "name": "Magnetic Car Mount #115",
+    "brand": "BassBeat",
+    "category": "Car Mounts",
+    "price": 989,
+    "mrp": 1430,
+    "rating": 4.4,
+    "stock": 89,
+    "tags": [
+      "type-c",
+      "matte",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#115",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#115"
+    ],
+    "description": "BassBeat Magnetic Car Mount #115 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1116,
+    "name": "USB Hub #116",
+    "brand": "TunePod",
+    "category": "USB Hubs",
+    "price": 989,
+    "mrp": 1100,
+    "rating": 3.3,
+    "stock": 166,
+    "tags": [
+      "slim",
+      "gaming",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#116",
+      "https://placehold.co/400x400?text=USB+Hub+#116"
+    ],
+    "description": "TunePod USB Hub #116 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1117,
+    "name": "Wall Charger #117",
+    "brand": "GripMate",
+    "category": "Chargers",
+    "price": 319,
+    "mrp": 470,
+    "rating": 4.5,
+    "stock": 30,
+    "tags": [
+      "lightning",
+      "durable",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#117",
+      "https://placehold.co/400x400?text=Wall+Charger+#117"
+    ],
+    "description": "GripMate Wall Charger #117 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1118,
+    "name": "Silicone Strap #118",
+    "brand": "EchoBox",
+    "category": "Smartwatch Straps",
+    "price": 179,
+    "mrp": 200,
+    "rating": 4.6,
+    "stock": 80,
+    "tags": [
+      "glossy",
+      "smartwatch-straps",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#118",
+      "https://placehold.co/400x400?text=Silicone+Strap+#118"
+    ],
+    "description": "EchoBox Silicone Strap #118 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1119,
+    "name": "Power Bank #119",
+    "brand": "VoltMax",
+    "category": "Power Banks",
+    "price": 2149,
+    "mrp": 2800,
+    "rating": 4.4,
+    "stock": 51,
+    "tags": [
+      "durable",
+      "power-banks",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#119",
+      "https://placehold.co/400x400?text=Power+Bank+#119"
+    ],
+    "description": "VoltMax Power Bank #119 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1120,
+    "name": "Selfie Stick Tripod #120",
+    "brand": "AirWave",
+    "category": "Selfie Sticks",
+    "price": 499,
+    "mrp": 670,
+    "rating": 4.2,
+    "stock": 64,
+    "tags": [
+      "lightning",
+      "wireless",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#120",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#120"
+    ],
+    "description": "AirWave Selfie Stick Tripod #120 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1121,
+    "name": "Magnetic Car Mount #121",
+    "brand": "SnapFit",
+    "category": "Car Mounts",
+    "price": 209,
+    "mrp": 320,
+    "rating": 4.0,
+    "stock": 78,
+    "tags": [
+      "durable",
+      "hot",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#121",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#121"
+    ],
+    "description": "SnapFit Magnetic Car Mount #121 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1122,
+    "name": "MicroSD Card #122",
+    "brand": "AirWave",
+    "category": "Memory Cards",
+    "price": 1059,
+    "mrp": 1500,
+    "rating": 4.0,
+    "stock": 69,
+    "tags": [
+      "lightning",
+      "slim",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#122",
+      "https://placehold.co/400x400?text=MicroSD+Card+#122"
+    ],
+    "description": "AirWave MicroSD Card #122 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1123,
+    "name": "Selfie Stick Tripod #123",
+    "brand": "TunePod",
+    "category": "Selfie Sticks",
+    "price": 809,
+    "mrp": 930,
+    "rating": 3.9,
+    "stock": 96,
+    "tags": [
+      "slim",
+      "selfie-sticks",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#123",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#123"
+    ],
+    "description": "TunePod Selfie Stick Tripod #123 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1124,
+    "name": "Selfie Stick Tripod #124",
+    "brand": "SoundPulse",
+    "category": "Selfie Sticks",
+    "price": 209,
+    "mrp": 280,
+    "rating": 4.4,
+    "stock": 195,
+    "tags": [
+      "new",
+      "universal",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#124",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#124"
+    ],
+    "description": "SoundPulse Selfie Stick Tripod #124 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1125,
+    "name": "Silicone Strap #125",
+    "brand": "ChargeGo",
+    "category": "Smartwatch Straps",
+    "price": 439,
+    "mrp": 610,
+    "rating": 3.8,
+    "stock": 167,
+    "tags": [
+      "fast-charge",
+      "wireless",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#125",
+      "https://placehold.co/400x400?text=Silicone+Strap+#125"
+    ],
+    "description": "ChargeGo Silicone Strap #125 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1126,
+    "name": "Power Bank #126",
+    "brand": "SnapFit",
+    "category": "Power Banks",
+    "price": 1039,
+    "mrp": 1610,
+    "rating": 4.4,
+    "stock": 84,
+    "tags": [
+      "lightning",
+      "new",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#126",
+      "https://placehold.co/400x400?text=Power+Bank+#126"
+    ],
+    "description": "SnapFit Power Bank #126 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1127,
+    "name": "MicroSD Card #127",
+    "brand": "ArmorX",
+    "category": "Memory Cards",
+    "price": 629,
+    "mrp": 720,
+    "rating": 3.7,
+    "stock": 196,
+    "tags": [
+      "micro-usb",
+      "durable",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#127",
+      "https://placehold.co/400x400?text=MicroSD+Card+#127"
+    ],
+    "description": "ArmorX MicroSD Card #127 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1128,
+    "name": "Power Bank #128",
+    "brand": "ChargeGo",
+    "category": "Power Banks",
+    "price": 2179,
+    "mrp": 3350,
+    "rating": 3.9,
+    "stock": 133,
+    "tags": [
+      "wireless",
+      "durable",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#128",
+      "https://placehold.co/400x400?text=Power+Bank+#128"
+    ],
+    "description": "ChargeGo Power Bank #128 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1129,
+    "name": "USB Hub #129",
+    "brand": "ChargeGo",
+    "category": "USB Hubs",
+    "price": 669,
+    "mrp": 980,
+    "rating": 3.8,
+    "stock": 34,
+    "tags": [
+      "lightning",
+      "hot",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#129",
+      "https://placehold.co/400x400?text=USB+Hub+#129"
+    ],
+    "description": "ChargeGo USB Hub #129 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1130,
+    "name": "Portable Bluetooth Speaker #130",
+    "brand": "TunePod",
+    "category": "Bluetooth Speakers",
+    "price": 4359,
+    "mrp": 6370,
+    "rating": 5.0,
+    "stock": 147,
+    "tags": [
+      "glossy",
+      "hot",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#130",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#130"
+    ],
+    "description": "TunePod Portable Bluetooth Speaker #130 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1131,
+    "name": "Selfie Stick Tripod #131",
+    "brand": "AddaShield",
+    "category": "Selfie Sticks",
+    "price": 529,
+    "mrp": 720,
+    "rating": 4.0,
+    "stock": 177,
+    "tags": [
+      "wireless",
+      "type-c",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#131",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#131"
+    ],
+    "description": "AddaShield Selfie Stick Tripod #131 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1132,
+    "name": "MicroSD Card #132",
+    "brand": "CaseCraft",
+    "category": "Memory Cards",
+    "price": 889,
+    "mrp": 1180,
+    "rating": 4.3,
+    "stock": 148,
+    "tags": [
+      "matte",
+      "gaming",
+      "memory-cards"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#132",
+      "https://placehold.co/400x400?text=MicroSD+Card+#132"
+    ],
+    "description": "CaseCraft MicroSD Card #132 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1133,
+    "name": "Wall Charger #133",
+    "brand": "SnapFit",
+    "category": "Chargers",
+    "price": 789,
+    "mrp": 1220,
+    "rating": 3.7,
+    "stock": 109,
+    "tags": [
+      "bestseller",
+      "discount",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#133",
+      "https://placehold.co/400x400?text=Wall+Charger+#133"
+    ],
+    "description": "SnapFit Wall Charger #133 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1134,
+    "name": "9H Tempered Glass #134",
+    "brand": "SoundPulse",
+    "category": "Screen Guards",
+    "price": 229,
+    "mrp": 260,
+    "rating": 3.6,
+    "stock": 142,
+    "tags": [
+      "discount",
+      "type-c",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#134",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#134"
+    ],
+    "description": "SoundPulse 9H Tempered Glass #134 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1135,
+    "name": "MicroSD Card #135",
+    "brand": "SnapFit",
+    "category": "Memory Cards",
+    "price": 1679,
+    "mrp": 2190,
+    "rating": 4.5,
+    "stock": 44,
+    "tags": [
+      "micro-usb",
+      "bestseller",
+      "memory-cards"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#135",
+      "https://placehold.co/400x400?text=MicroSD+Card+#135"
+    ],
+    "description": "SnapFit MicroSD Card #135 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1136,
+    "name": "USB Hub #136",
+    "brand": "AirWave",
+    "category": "USB Hubs",
+    "price": 819,
+    "mrp": 1280,
+    "rating": 3.7,
+    "stock": 181,
+    "tags": [
+      "glossy",
+      "fast-charge",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#136",
+      "https://placehold.co/400x400?text=USB+Hub+#136"
+    ],
+    "description": "AirWave USB Hub #136 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1137,
+    "name": "Fast Charger #137",
+    "brand": "VoltMax",
+    "category": "Fast Chargers",
+    "price": 1319,
+    "mrp": 1510,
+    "rating": 4.4,
+    "stock": 144,
+    "tags": [
+      "glossy",
+      "new",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#137",
+      "https://placehold.co/400x400?text=Fast+Charger+#137"
+    ],
+    "description": "VoltMax Fast Charger #137 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1138,
+    "name": "Magnetic Car Mount #138",
+    "brand": "VoltMax",
+    "category": "Car Mounts",
+    "price": 349,
+    "mrp": 540,
+    "rating": 4.7,
+    "stock": 28,
+    "tags": [
+      "fast-charge",
+      "premium",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#138",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#138"
+    ],
+    "description": "VoltMax Magnetic Car Mount #138 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1139,
+    "name": "OTG Adapter #139",
+    "brand": "VoltMax",
+    "category": "OTG & Adapters",
+    "price": 139,
+    "mrp": 200,
+    "rating": 3.6,
+    "stock": 200,
+    "tags": [
+      "fast-charge",
+      "otg-&-adapters",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#139",
+      "https://placehold.co/400x400?text=OTG+Adapter+#139"
+    ],
+    "description": "VoltMax OTG Adapter #139 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1140,
+    "name": "Portable Bluetooth Speaker #140",
+    "brand": "BassBeat",
+    "category": "Bluetooth Speakers",
+    "price": 4859,
+    "mrp": 5700,
+    "rating": 4.8,
+    "stock": 5,
+    "tags": [
+      "wireless",
+      "discount",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#140",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#140"
+    ],
+    "description": "BassBeat Portable Bluetooth Speaker #140 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1141,
+    "name": "Magnetic Car Mount #141",
+    "brand": "ChargeGo",
+    "category": "Car Mounts",
+    "price": 419,
+    "mrp": 480,
+    "rating": 4.8,
+    "stock": 38,
+    "tags": [
+      "premium",
+      "glossy",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#141",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#141"
+    ],
+    "description": "ChargeGo Magnetic Car Mount #141 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1142,
+    "name": "Portable Bluetooth Speaker #142",
+    "brand": "AirWave",
+    "category": "Bluetooth Speakers",
+    "price": 2549,
+    "mrp": 2820,
+    "rating": 3.7,
+    "stock": 37,
+    "tags": [
+      "micro-usb",
+      "bestseller",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#142",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#142"
+    ],
+    "description": "AirWave Portable Bluetooth Speaker #142 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1143,
+    "name": "Wall Charger #143",
+    "brand": "PowerPro",
+    "category": "Chargers",
+    "price": 769,
+    "mrp": 1140,
+    "rating": 4.1,
+    "stock": 32,
+    "tags": [
+      "lightning",
+      "gaming",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#143",
+      "https://placehold.co/400x400?text=Wall+Charger+#143"
+    ],
+    "description": "PowerPro Wall Charger #143 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1144,
+    "name": "9H Tempered Glass #144",
+    "brand": "ArmorX",
+    "category": "Screen Guards",
+    "price": 289,
+    "mrp": 390,
+    "rating": 4.0,
+    "stock": 12,
+    "tags": [
+      "new",
+      "universal",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#144",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#144"
+    ],
+    "description": "ArmorX 9H Tempered Glass #144 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1145,
+    "name": "Selfie Stick Tripod #145",
+    "brand": "GripMate",
+    "category": "Selfie Sticks",
+    "price": 329,
+    "mrp": 440,
+    "rating": 4.8,
+    "stock": 23,
+    "tags": [
+      "hot",
+      "matte",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#145",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#145"
+    ],
+    "description": "GripMate Selfie Stick Tripod #145 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1146,
+    "name": "Power Bank #146",
+    "brand": "CaseCraft",
+    "category": "Power Banks",
+    "price": 1119,
+    "mrp": 1380,
+    "rating": 4.3,
+    "stock": 145,
+    "tags": [
+      "matte",
+      "type-c",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#146",
+      "https://placehold.co/400x400?text=Power+Bank+#146"
+    ],
+    "description": "CaseCraft Power Bank #146 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1147,
+    "name": "Silicone Strap #147",
+    "brand": "PowerPro",
+    "category": "Smartwatch Straps",
+    "price": 789,
+    "mrp": 1100,
+    "rating": 3.4,
+    "stock": 184,
+    "tags": [
+      "bestseller",
+      "fast-charge",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#147",
+      "https://placehold.co/400x400?text=Silicone+Strap+#147"
+    ],
+    "description": "PowerPro Silicone Strap #147 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1148,
+    "name": "Fast Charger #148",
+    "brand": "EchoBox",
+    "category": "Fast Chargers",
+    "price": 979,
+    "mrp": 1270,
+    "rating": 4.7,
+    "stock": 107,
+    "tags": [
+      "micro-usb",
+      "bestseller",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#148",
+      "https://placehold.co/400x400?text=Fast+Charger+#148"
+    ],
+    "description": "EchoBox Fast Charger #148 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1149,
+    "name": "Mobile Gaming Triggers #149",
+    "brand": "BassBeat",
+    "category": "Gaming Triggers",
+    "price": 569,
+    "mrp": 690,
+    "rating": 4.9,
+    "stock": 180,
+    "tags": [
+      "universal",
+      "hot",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#149",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#149"
+    ],
+    "description": "BassBeat Mobile Gaming Triggers #149 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1150,
+    "name": "Wall Charger #150",
+    "brand": "CaseCraft",
+    "category": "Chargers",
+    "price": 749,
+    "mrp": 860,
+    "rating": 4.5,
+    "stock": 38,
+    "tags": [
+      "new",
+      "matte",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#150",
+      "https://placehold.co/400x400?text=Wall+Charger+#150"
+    ],
+    "description": "CaseCraft Wall Charger #150 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1151,
+    "name": "Type-C Cable #151",
+    "brand": "GripMate",
+    "category": "Cables",
+    "price": 209,
+    "mrp": 320,
+    "rating": 4.9,
+    "stock": 113,
+    "tags": [
+      "new",
+      "slim",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#151",
+      "https://placehold.co/400x400?text=Type-C+Cable+#151"
+    ],
+    "description": "GripMate Type-C Cable #151 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1152,
+    "name": "Silicone Strap #152",
+    "brand": "BassBeat",
+    "category": "Smartwatch Straps",
+    "price": 279,
+    "mrp": 380,
+    "rating": 3.6,
+    "stock": 173,
+    "tags": [
+      "universal",
+      "gaming",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#152",
+      "https://placehold.co/400x400?text=Silicone+Strap+#152"
+    ],
+    "description": "BassBeat Silicone Strap #152 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1153,
+    "name": "Type-C Cable #153",
+    "brand": "BassBeat",
+    "category": "Cables",
+    "price": 369,
+    "mrp": 500,
+    "rating": 3.4,
+    "stock": 76,
+    "tags": [
+      "gaming",
+      "micro-usb",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#153",
+      "https://placehold.co/400x400?text=Type-C+Cable+#153"
+    ],
+    "description": "BassBeat Type-C Cable #153 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1154,
+    "name": "Protective Back Cover #154",
+    "brand": "AirWave",
+    "category": "Back Covers",
+    "price": 389,
+    "mrp": 550,
+    "rating": 4.4,
+    "stock": 12,
+    "tags": [
+      "durable",
+      "wireless",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#154",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#154"
+    ],
+    "description": "AirWave Protective Back Cover #154 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1155,
+    "name": "Silicone Strap #155",
+    "brand": "EchoBox",
+    "category": "Smartwatch Straps",
+    "price": 579,
+    "mrp": 730,
+    "rating": 3.5,
+    "stock": 41,
+    "tags": [
+      "type-c",
+      "hot",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#155",
+      "https://placehold.co/400x400?text=Silicone+Strap+#155"
+    ],
+    "description": "EchoBox Silicone Strap #155 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1156,
+    "name": "Protective Back Cover #156",
+    "brand": "CaseCraft",
+    "category": "Back Covers",
+    "price": 329,
+    "mrp": 440,
+    "rating": 3.9,
+    "stock": 121,
+    "tags": [
+      "matte",
+      "durable",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#156",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#156"
+    ],
+    "description": "CaseCraft Protective Back Cover #156 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1157,
+    "name": "Silicone Strap #157",
+    "brand": "ArmorX",
+    "category": "Smartwatch Straps",
+    "price": 559,
+    "mrp": 830,
+    "rating": 4.2,
+    "stock": 26,
+    "tags": [
+      "new",
+      "discount",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#157",
+      "https://placehold.co/400x400?text=Silicone+Strap+#157"
+    ],
+    "description": "ArmorX Silicone Strap #157 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1158,
+    "name": "9H Tempered Glass #158",
+    "brand": "SnapFit",
+    "category": "Screen Guards",
+    "price": 99,
+    "mrp": 120,
+    "rating": 4.4,
+    "stock": 129,
+    "tags": [
+      "lightning",
+      "micro-usb",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#158",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#158"
+    ],
+    "description": "SnapFit 9H Tempered Glass #158 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1159,
+    "name": "Bluetooth Neckband #159",
+    "brand": "ChargeGo",
+    "category": "Neckbands",
+    "price": 1809,
+    "mrp": 2090,
+    "rating": 4.0,
+    "stock": 77,
+    "tags": [
+      "universal",
+      "slim",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#159",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#159"
+    ],
+    "description": "ChargeGo Bluetooth Neckband #159 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1160,
+    "name": "Portable Bluetooth Speaker #160",
+    "brand": "GripMate",
+    "category": "Bluetooth Speakers",
+    "price": 3959,
+    "mrp": 4460,
+    "rating": 3.6,
+    "stock": 59,
+    "tags": [
+      "discount",
+      "wireless",
+      "bluetooth-speakers"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#160",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#160"
+    ],
+    "description": "GripMate Portable Bluetooth Speaker #160 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1161,
+    "name": "OTG Adapter #161",
+    "brand": "CaseCraft",
+    "category": "OTG & Adapters",
+    "price": 99,
+    "mrp": 130,
+    "rating": 4.0,
+    "stock": 38,
+    "tags": [
+      "type-c",
+      "gaming",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#161",
+      "https://placehold.co/400x400?text=OTG+Adapter+#161"
+    ],
+    "description": "CaseCraft OTG Adapter #161 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1162,
+    "name": "MicroSD Card #162",
+    "brand": "CaseCraft",
+    "category": "Memory Cards",
+    "price": 1309,
+    "mrp": 2000,
+    "rating": 3.3,
+    "stock": 9,
+    "tags": [
+      "lightning",
+      "hot",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#162",
+      "https://placehold.co/400x400?text=MicroSD+Card+#162"
+    ],
+    "description": "CaseCraft MicroSD Card #162 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1163,
+    "name": "OTG Adapter #163",
+    "brand": "AirWave",
+    "category": "OTG & Adapters",
+    "price": 229,
+    "mrp": 310,
+    "rating": 4.5,
+    "stock": 111,
+    "tags": [
+      "slim",
+      "bestseller",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#163",
+      "https://placehold.co/400x400?text=OTG+Adapter+#163"
+    ],
+    "description": "AirWave OTG Adapter #163 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1164,
+    "name": "Protective Back Cover #164",
+    "brand": "BassBeat",
+    "category": "Back Covers",
+    "price": 149,
+    "mrp": 220,
+    "rating": 4.3,
+    "stock": 181,
+    "tags": [
+      "glossy",
+      "hot",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#164",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#164"
+    ],
+    "description": "BassBeat Protective Back Cover #164 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1165,
+    "name": "Type-C Cable #165",
+    "brand": "VoltMax",
+    "category": "Cables",
+    "price": 229,
+    "mrp": 310,
+    "rating": 4.1,
+    "stock": 106,
+    "tags": [
+      "slim",
+      "matte",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#165",
+      "https://placehold.co/400x400?text=Type-C+Cable+#165"
+    ],
+    "description": "VoltMax Type-C Cable #165 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1166,
+    "name": "OTG Adapter #166",
+    "brand": "ChargeGo",
+    "category": "OTG & Adapters",
+    "price": 149,
+    "mrp": 160,
+    "rating": 4.3,
+    "stock": 140,
+    "tags": [
+      "otg-&-adapters",
+      "fast-charge",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#166",
+      "https://placehold.co/400x400?text=OTG+Adapter+#166"
+    ],
+    "description": "ChargeGo OTG Adapter #166 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1167,
+    "name": "MicroSD Card #167",
+    "brand": "BassBeat",
+    "category": "Memory Cards",
+    "price": 1949,
+    "mrp": 2930,
+    "rating": 3.6,
+    "stock": 42,
+    "tags": [
+      "wireless",
+      "fast-charge",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#167",
+      "https://placehold.co/400x400?text=MicroSD+Card+#167"
+    ],
+    "description": "BassBeat MicroSD Card #167 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1168,
+    "name": "Power Bank #168",
+    "brand": "ChargeGo",
+    "category": "Power Banks",
+    "price": 2469,
+    "mrp": 2800,
+    "rating": 4.9,
+    "stock": 165,
+    "tags": [
+      "universal",
+      "lightning",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#168",
+      "https://placehold.co/400x400?text=Power+Bank+#168"
+    ],
+    "description": "ChargeGo Power Bank #168 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1169,
+    "name": "Fast Charger #169",
+    "brand": "SnapFit",
+    "category": "Fast Chargers",
+    "price": 1839,
+    "mrp": 2610,
+    "rating": 5.0,
+    "stock": 87,
+    "tags": [
+      "matte",
+      "discount",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#169",
+      "https://placehold.co/400x400?text=Fast+Charger+#169"
+    ],
+    "description": "SnapFit Fast Charger #169 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1170,
+    "name": "Wall Charger #170",
+    "brand": "PowerPro",
+    "category": "Chargers",
+    "price": 759,
+    "mrp": 1070,
+    "rating": 4.6,
+    "stock": 156,
+    "tags": [
+      "new",
+      "glossy",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#170",
+      "https://placehold.co/400x400?text=Wall+Charger+#170"
+    ],
+    "description": "PowerPro Wall Charger #170 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1171,
+    "name": "Wall Charger #171",
+    "brand": "SoundPulse",
+    "category": "Chargers",
+    "price": 789,
+    "mrp": 1040,
+    "rating": 3.3,
+    "stock": 78,
+    "tags": [
+      "hot",
+      "chargers",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#171",
+      "https://placehold.co/400x400?text=Wall+Charger+#171"
+    ],
+    "description": "SoundPulse Wall Charger #171 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1172,
+    "name": "Selfie Stick Tripod #172",
+    "brand": "PowerPro",
+    "category": "Selfie Sticks",
+    "price": 939,
+    "mrp": 1290,
+    "rating": 4.6,
+    "stock": 15,
+    "tags": [
+      "lightning",
+      "fast-charge",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#172",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#172"
+    ],
+    "description": "PowerPro Selfie Stick Tripod #172 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1173,
+    "name": "USB Hub #173",
+    "brand": "FlexiWire",
+    "category": "USB Hubs",
+    "price": 489,
+    "mrp": 770,
+    "rating": 4.0,
+    "stock": 92,
+    "tags": [
+      "hot",
+      "durable",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#173",
+      "https://placehold.co/400x400?text=USB+Hub+#173"
+    ],
+    "description": "FlexiWire USB Hub #173 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1174,
+    "name": "Portable Bluetooth Speaker #174",
+    "brand": "ArmorX",
+    "category": "Bluetooth Speakers",
+    "price": 3139,
+    "mrp": 5000,
+    "rating": 4.1,
+    "stock": 161,
+    "tags": [
+      "durable",
+      "glossy",
+      "bluetooth-speakers"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#174",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#174"
+    ],
+    "description": "ArmorX Portable Bluetooth Speaker #174 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1175,
+    "name": "Silicone Strap #175",
+    "brand": "GripMate",
+    "category": "Smartwatch Straps",
+    "price": 669,
+    "mrp": 990,
+    "rating": 4.4,
+    "stock": 18,
+    "tags": [
+      "matte",
+      "hot",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#175",
+      "https://placehold.co/400x400?text=Silicone+Strap+#175"
+    ],
+    "description": "GripMate Silicone Strap #175 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1176,
+    "name": "Type-C Cable #176",
+    "brand": "FlexiWire",
+    "category": "Cables",
+    "price": 309,
+    "mrp": 390,
+    "rating": 3.7,
+    "stock": 173,
+    "tags": [
+      "discount",
+      "matte",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#176",
+      "https://placehold.co/400x400?text=Type-C+Cable+#176"
+    ],
+    "description": "FlexiWire Type-C Cable #176 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1177,
+    "name": "Power Bank #177",
+    "brand": "EchoBox",
+    "category": "Power Banks",
+    "price": 1689,
+    "mrp": 2110,
+    "rating": 4.4,
+    "stock": 174,
+    "tags": [
+      "type-c",
+      "discount",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#177",
+      "https://placehold.co/400x400?text=Power+Bank+#177"
+    ],
+    "description": "EchoBox Power Bank #177 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1178,
+    "name": "Wall Charger #178",
+    "brand": "SoundPulse",
+    "category": "Chargers",
+    "price": 909,
+    "mrp": 1170,
+    "rating": 4.6,
+    "stock": 37,
+    "tags": [
+      "chargers",
+      "hot",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#178",
+      "https://placehold.co/400x400?text=Wall+Charger+#178"
+    ],
+    "description": "SoundPulse Wall Charger #178 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1179,
+    "name": "Mobile Gaming Triggers #179",
+    "brand": "FlexiWire",
+    "category": "Gaming Triggers",
+    "price": 379,
+    "mrp": 420,
+    "rating": 3.8,
+    "stock": 59,
+    "tags": [
+      "matte",
+      "universal",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#179",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#179"
+    ],
+    "description": "FlexiWire Mobile Gaming Triggers #179 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1180,
+    "name": "Portable Bluetooth Speaker #180",
+    "brand": "NanoGuard",
+    "category": "Bluetooth Speakers",
+    "price": 1689,
+    "mrp": 1920,
+    "rating": 4.7,
+    "stock": 30,
+    "tags": [
+      "bluetooth-speakers",
+      "new",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#180",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#180"
+    ],
+    "description": "NanoGuard Portable Bluetooth Speaker #180 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1181,
+    "name": "OTG Adapter #181",
+    "brand": "EchoBox",
+    "category": "OTG & Adapters",
+    "price": 339,
+    "mrp": 470,
+    "rating": 4.3,
+    "stock": 44,
+    "tags": [
+      "durable",
+      "otg-&-adapters",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#181",
+      "https://placehold.co/400x400?text=OTG+Adapter+#181"
+    ],
+    "description": "EchoBox OTG Adapter #181 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1182,
+    "name": "True Wireless Earbuds #182",
+    "brand": "ArmorX",
+    "category": "Earbuds",
+    "price": 3039,
+    "mrp": 3400,
+    "rating": 3.9,
+    "stock": 189,
+    "tags": [
+      "gaming",
+      "lightning",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#182",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#182"
+    ],
+    "description": "ArmorX True Wireless Earbuds #182 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1183,
+    "name": "Silicone Strap #183",
+    "brand": "ChargeGo",
+    "category": "Smartwatch Straps",
+    "price": 719,
+    "mrp": 870,
+    "rating": 3.6,
+    "stock": 125,
+    "tags": [
+      "fast-charge",
+      "glossy",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#183",
+      "https://placehold.co/400x400?text=Silicone+Strap+#183"
+    ],
+    "description": "ChargeGo Silicone Strap #183 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1184,
+    "name": "Fast Charger #184",
+    "brand": "PowerPro",
+    "category": "Fast Chargers",
+    "price": 1119,
+    "mrp": 1660,
+    "rating": 4.1,
+    "stock": 112,
+    "tags": [
+      "durable",
+      "fast-charge",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#184",
+      "https://placehold.co/400x400?text=Fast+Charger+#184"
+    ],
+    "description": "PowerPro Fast Charger #184 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1185,
+    "name": "Power Bank #185",
+    "brand": "TunePod",
+    "category": "Power Banks",
+    "price": 1439,
+    "mrp": 1620,
+    "rating": 4.1,
+    "stock": 100,
+    "tags": [
+      "bestseller",
+      "power-banks",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#185",
+      "https://placehold.co/400x400?text=Power+Bank+#185"
+    ],
+    "description": "TunePod Power Bank #185 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1186,
+    "name": "Wall Charger #186",
+    "brand": "ChargeGo",
+    "category": "Chargers",
+    "price": 399,
+    "mrp": 490,
+    "rating": 4.8,
+    "stock": 42,
+    "tags": [
+      "micro-usb",
+      "hot",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#186",
+      "https://placehold.co/400x400?text=Wall+Charger+#186"
+    ],
+    "description": "ChargeGo Wall Charger #186 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1187,
+    "name": "Portable Bluetooth Speaker #187",
+    "brand": "TunePod",
+    "category": "Bluetooth Speakers",
+    "price": 3199,
+    "mrp": 4930,
+    "rating": 4.9,
+    "stock": 111,
+    "tags": [
+      "new",
+      "type-c",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#187",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#187"
+    ],
+    "description": "TunePod Portable Bluetooth Speaker #187 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1188,
+    "name": "MicroSD Card #188",
+    "brand": "VoltMax",
+    "category": "Memory Cards",
+    "price": 1279,
+    "mrp": 2040,
+    "rating": 3.9,
+    "stock": 12,
+    "tags": [
+      "matte",
+      "bestseller",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#188",
+      "https://placehold.co/400x400?text=MicroSD+Card+#188"
+    ],
+    "description": "VoltMax MicroSD Card #188 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1189,
+    "name": "OTG Adapter #189",
+    "brand": "ChargeGo",
+    "category": "OTG & Adapters",
+    "price": 139,
+    "mrp": 160,
+    "rating": 3.7,
+    "stock": 125,
+    "tags": [
+      "discount",
+      "universal",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#189",
+      "https://placehold.co/400x400?text=OTG+Adapter+#189"
+    ],
+    "description": "ChargeGo OTG Adapter #189 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1190,
+    "name": "Protective Back Cover #190",
+    "brand": "EchoBox",
+    "category": "Back Covers",
+    "price": 119,
+    "mrp": 130,
+    "rating": 3.6,
+    "stock": 43,
+    "tags": [
+      "back-covers",
+      "micro-usb",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#190",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#190"
+    ],
+    "description": "EchoBox Protective Back Cover #190 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1191,
+    "name": "Silicone Strap #191",
+    "brand": "VoltMax",
+    "category": "Smartwatch Straps",
+    "price": 529,
+    "mrp": 610,
+    "rating": 3.6,
+    "stock": 168,
+    "tags": [
+      "lightning",
+      "hot",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#191",
+      "https://placehold.co/400x400?text=Silicone+Strap+#191"
+    ],
+    "description": "VoltMax Silicone Strap #191 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1192,
+    "name": "USB Hub #192",
+    "brand": "AirWave",
+    "category": "USB Hubs",
+    "price": 979,
+    "mrp": 1080,
+    "rating": 4.1,
+    "stock": 66,
+    "tags": [
+      "discount",
+      "slim",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#192",
+      "https://placehold.co/400x400?text=USB+Hub+#192"
+    ],
+    "description": "AirWave USB Hub #192 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1193,
+    "name": "Protective Back Cover #193",
+    "brand": "AirWave",
+    "category": "Back Covers",
+    "price": 209,
+    "mrp": 250,
+    "rating": 3.9,
+    "stock": 175,
+    "tags": [
+      "hot",
+      "glossy",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#193",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#193"
+    ],
+    "description": "AirWave Protective Back Cover #193 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1194,
+    "name": "Protective Back Cover #194",
+    "brand": "GripMate",
+    "category": "Back Covers",
+    "price": 369,
+    "mrp": 490,
+    "rating": 4.3,
+    "stock": 100,
+    "tags": [
+      "wireless",
+      "premium",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#194",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#194"
+    ],
+    "description": "GripMate Protective Back Cover #194 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1195,
+    "name": "Wall Charger #195",
+    "brand": "BassBeat",
+    "category": "Chargers",
+    "price": 499,
+    "mrp": 730,
+    "rating": 4.3,
+    "stock": 153,
+    "tags": [
+      "matte",
+      "discount",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#195",
+      "https://placehold.co/400x400?text=Wall+Charger+#195"
+    ],
+    "description": "BassBeat Wall Charger #195 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1196,
+    "name": "MicroSD Card #196",
+    "brand": "FlexiWire",
+    "category": "Memory Cards",
+    "price": 1159,
+    "mrp": 1740,
+    "rating": 3.5,
+    "stock": 180,
+    "tags": [
+      "lightning",
+      "universal",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#196",
+      "https://placehold.co/400x400?text=MicroSD+Card+#196"
+    ],
+    "description": "FlexiWire MicroSD Card #196 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1197,
+    "name": "True Wireless Earbuds #197",
+    "brand": "ChargeGo",
+    "category": "Earbuds",
+    "price": 1489,
+    "mrp": 1680,
+    "rating": 4.6,
+    "stock": 122,
+    "tags": [
+      "new",
+      "slim",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#197",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#197"
+    ],
+    "description": "ChargeGo True Wireless Earbuds #197 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1198,
+    "name": "9H Tempered Glass #198",
+    "brand": "ChargeGo",
+    "category": "Screen Guards",
+    "price": 139,
+    "mrp": 210,
+    "rating": 3.8,
+    "stock": 84,
+    "tags": [
+      "screen-guards",
+      "type-c",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#198",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#198"
+    ],
+    "description": "ChargeGo 9H Tempered Glass #198 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1199,
+    "name": "USB Hub #199",
+    "brand": "SoundPulse",
+    "category": "USB Hubs",
+    "price": 339,
+    "mrp": 500,
+    "rating": 3.5,
+    "stock": 96,
+    "tags": [
+      "new",
+      "matte",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#199",
+      "https://placehold.co/400x400?text=USB+Hub+#199"
+    ],
+    "description": "SoundPulse USB Hub #199 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1200,
+    "name": "Type-C Cable #200",
+    "brand": "ChargeGo",
+    "category": "Cables",
+    "price": 209,
+    "mrp": 270,
+    "rating": 3.9,
+    "stock": 117,
+    "tags": [
+      "type-c",
+      "matte",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#200",
+      "https://placehold.co/400x400?text=Type-C+Cable+#200"
+    ],
+    "description": "ChargeGo Type-C Cable #200 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1201,
+    "name": "USB Hub #201",
+    "brand": "ArmorX",
+    "category": "USB Hubs",
+    "price": 929,
+    "mrp": 1190,
+    "rating": 4.6,
+    "stock": 73,
+    "tags": [
+      "hot",
+      "micro-usb",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#201",
+      "https://placehold.co/400x400?text=USB+Hub+#201"
+    ],
+    "description": "ArmorX USB Hub #201 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1202,
+    "name": "Mobile Gaming Triggers #202",
+    "brand": "AirWave",
+    "category": "Gaming Triggers",
+    "price": 669,
+    "mrp": 790,
+    "rating": 3.7,
+    "stock": 31,
+    "tags": [
+      "hot",
+      "matte",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#202",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#202"
+    ],
+    "description": "AirWave Mobile Gaming Triggers #202 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1203,
+    "name": "Silicone Strap #203",
+    "brand": "SoundPulse",
+    "category": "Smartwatch Straps",
+    "price": 719,
+    "mrp": 1000,
+    "rating": 4.0,
+    "stock": 181,
+    "tags": [
+      "lightning",
+      "glossy",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#203",
+      "https://placehold.co/400x400?text=Silicone+Strap+#203"
+    ],
+    "description": "SoundPulse Silicone Strap #203 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1204,
+    "name": "9H Tempered Glass #204",
+    "brand": "ArmorX",
+    "category": "Screen Guards",
+    "price": 189,
+    "mrp": 260,
+    "rating": 4.0,
+    "stock": 168,
+    "tags": [
+      "new",
+      "hot",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#204",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#204"
+    ],
+    "description": "ArmorX 9H Tempered Glass #204 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1205,
+    "name": "Selfie Stick Tripod #205",
+    "brand": "BassBeat",
+    "category": "Selfie Sticks",
+    "price": 849,
+    "mrp": 1270,
+    "rating": 4.4,
+    "stock": 12,
+    "tags": [
+      "discount",
+      "lightning",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#205",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#205"
+    ],
+    "description": "BassBeat Selfie Stick Tripod #205 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1206,
+    "name": "Power Bank #206",
+    "brand": "CaseCraft",
+    "category": "Power Banks",
+    "price": 1399,
+    "mrp": 2080,
+    "rating": 3.9,
+    "stock": 103,
+    "tags": [
+      "new",
+      "discount",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#206",
+      "https://placehold.co/400x400?text=Power+Bank+#206"
+    ],
+    "description": "CaseCraft Power Bank #206 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1207,
+    "name": "Fast Charger #207",
+    "brand": "BassBeat",
+    "category": "Fast Chargers",
+    "price": 1349,
+    "mrp": 1780,
+    "rating": 3.3,
+    "stock": 40,
+    "tags": [
+      "fast-chargers",
+      "glossy",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#207",
+      "https://placehold.co/400x400?text=Fast+Charger+#207"
+    ],
+    "description": "BassBeat Fast Charger #207 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1208,
+    "name": "OTG Adapter #208",
+    "brand": "SnapFit",
+    "category": "OTG & Adapters",
+    "price": 179,
+    "mrp": 210,
+    "rating": 3.4,
+    "stock": 193,
+    "tags": [
+      "durable",
+      "universal",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#208",
+      "https://placehold.co/400x400?text=OTG+Adapter+#208"
+    ],
+    "description": "SnapFit OTG Adapter #208 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1209,
+    "name": "Selfie Stick Tripod #209",
+    "brand": "EchoBox",
+    "category": "Selfie Sticks",
+    "price": 909,
+    "mrp": 1050,
+    "rating": 4.6,
+    "stock": 185,
+    "tags": [
+      "lightning",
+      "fast-charge",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#209",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#209"
+    ],
+    "description": "EchoBox Selfie Stick Tripod #209 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1210,
+    "name": "Silicone Strap #210",
+    "brand": "ArmorX",
+    "category": "Smartwatch Straps",
+    "price": 769,
+    "mrp": 920,
+    "rating": 3.4,
+    "stock": 23,
+    "tags": [
+      "lightning",
+      "durable",
+      "smartwatch-straps"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#210",
+      "https://placehold.co/400x400?text=Silicone+Strap+#210"
+    ],
+    "description": "ArmorX Silicone Strap #210 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1211,
+    "name": "Fast Charger #211",
+    "brand": "CaseCraft",
+    "category": "Fast Chargers",
+    "price": 1209,
+    "mrp": 1730,
+    "rating": 4.5,
+    "stock": 145,
+    "tags": [
+      "slim",
+      "fast-chargers",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#211",
+      "https://placehold.co/400x400?text=Fast+Charger+#211"
+    ],
+    "description": "CaseCraft Fast Charger #211 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1212,
+    "name": "True Wireless Earbuds #212",
+    "brand": "ArmorX",
+    "category": "Earbuds",
+    "price": 1689,
+    "mrp": 2520,
+    "rating": 4.1,
+    "stock": 36,
+    "tags": [
+      "fast-charge",
+      "discount",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#212",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#212"
+    ],
+    "description": "ArmorX True Wireless Earbuds #212 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1213,
+    "name": "USB Hub #213",
+    "brand": "AddaShield",
+    "category": "USB Hubs",
+    "price": 759,
+    "mrp": 1040,
+    "rating": 3.9,
+    "stock": 146,
+    "tags": [
+      "discount",
+      "hot",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#213",
+      "https://placehold.co/400x400?text=USB+Hub+#213"
+    ],
+    "description": "AddaShield USB Hub #213 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1214,
+    "name": "Silicone Strap #214",
+    "brand": "GripMate",
+    "category": "Smartwatch Straps",
+    "price": 759,
+    "mrp": 1030,
+    "rating": 4.6,
+    "stock": 152,
+    "tags": [
+      "hot",
+      "discount",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#214",
+      "https://placehold.co/400x400?text=Silicone+Strap+#214"
+    ],
+    "description": "GripMate Silicone Strap #214 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1215,
+    "name": "Wall Charger #215",
+    "brand": "PowerPro",
+    "category": "Chargers",
+    "price": 789,
+    "mrp": 1130,
+    "rating": 3.8,
+    "stock": 146,
+    "tags": [
+      "durable",
+      "discount",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#215",
+      "https://placehold.co/400x400?text=Wall+Charger+#215"
+    ],
+    "description": "PowerPro Wall Charger #215 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1216,
+    "name": "9H Tempered Glass #216",
+    "brand": "TunePod",
+    "category": "Screen Guards",
+    "price": 109,
+    "mrp": 140,
+    "rating": 3.7,
+    "stock": 46,
+    "tags": [
+      "matte",
+      "gaming",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#216",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#216"
+    ],
+    "description": "TunePod 9H Tempered Glass #216 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1217,
+    "name": "Silicone Strap #217",
+    "brand": "TunePod",
+    "category": "Smartwatch Straps",
+    "price": 249,
+    "mrp": 300,
+    "rating": 4.3,
+    "stock": 146,
+    "tags": [
+      "wireless",
+      "discount",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#217",
+      "https://placehold.co/400x400?text=Silicone+Strap+#217"
+    ],
+    "description": "TunePod Silicone Strap #217 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1218,
+    "name": "Silicone Strap #218",
+    "brand": "AirWave",
+    "category": "Smartwatch Straps",
+    "price": 829,
+    "mrp": 950,
+    "rating": 4.4,
+    "stock": 156,
+    "tags": [
+      "discount",
+      "durable",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#218",
+      "https://placehold.co/400x400?text=Silicone+Strap+#218"
+    ],
+    "description": "AirWave Silicone Strap #218 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1219,
+    "name": "OTG Adapter #219",
+    "brand": "TunePod",
+    "category": "OTG & Adapters",
+    "price": 389,
+    "mrp": 530,
+    "rating": 4.7,
+    "stock": 12,
+    "tags": [
+      "hot",
+      "new",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#219",
+      "https://placehold.co/400x400?text=OTG+Adapter+#219"
+    ],
+    "description": "TunePod OTG Adapter #219 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1220,
+    "name": "Magnetic Car Mount #220",
+    "brand": "SnapFit",
+    "category": "Car Mounts",
+    "price": 459,
+    "mrp": 680,
+    "rating": 3.9,
+    "stock": 168,
+    "tags": [
+      "premium",
+      "universal",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#220",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#220"
+    ],
+    "description": "SnapFit Magnetic Car Mount #220 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1221,
+    "name": "Silicone Strap #221",
+    "brand": "SnapFit",
+    "category": "Smartwatch Straps",
+    "price": 529,
+    "mrp": 700,
+    "rating": 4.6,
+    "stock": 180,
+    "tags": [
+      "type-c",
+      "slim",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#221",
+      "https://placehold.co/400x400?text=Silicone+Strap+#221"
+    ],
+    "description": "SnapFit Silicone Strap #221 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1222,
+    "name": "Wall Charger #222",
+    "brand": "ArmorX",
+    "category": "Chargers",
+    "price": 269,
+    "mrp": 310,
+    "rating": 3.9,
+    "stock": 123,
+    "tags": [
+      "fast-charge",
+      "matte",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#222",
+      "https://placehold.co/400x400?text=Wall+Charger+#222"
+    ],
+    "description": "ArmorX Wall Charger #222 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1223,
+    "name": "Power Bank #223",
+    "brand": "BassBeat",
+    "category": "Power Banks",
+    "price": 1609,
+    "mrp": 2360,
+    "rating": 4.7,
+    "stock": 107,
+    "tags": [
+      "discount",
+      "glossy",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#223",
+      "https://placehold.co/400x400?text=Power+Bank+#223"
+    ],
+    "description": "BassBeat Power Bank #223 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1224,
+    "name": "Type-C Cable #224",
+    "brand": "BassBeat",
+    "category": "Cables",
+    "price": 169,
+    "mrp": 220,
+    "rating": 3.7,
+    "stock": 68,
+    "tags": [
+      "discount",
+      "bestseller",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#224",
+      "https://placehold.co/400x400?text=Type-C+Cable+#224"
+    ],
+    "description": "BassBeat Type-C Cable #224 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1225,
+    "name": "Silicone Strap #225",
+    "brand": "GripMate",
+    "category": "Smartwatch Straps",
+    "price": 929,
+    "mrp": 1210,
+    "rating": 4.9,
+    "stock": 45,
+    "tags": [
+      "matte",
+      "smartwatch-straps",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#225",
+      "https://placehold.co/400x400?text=Silicone+Strap+#225"
+    ],
+    "description": "GripMate Silicone Strap #225 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1226,
+    "name": "True Wireless Earbuds #226",
+    "brand": "PowerPro",
+    "category": "Earbuds",
+    "price": 3429,
+    "mrp": 4570,
+    "rating": 4.8,
+    "stock": 132,
+    "tags": [
+      "premium",
+      "hot",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#226",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#226"
+    ],
+    "description": "PowerPro True Wireless Earbuds #226 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1227,
+    "name": "Fast Charger #227",
+    "brand": "VoltMax",
+    "category": "Fast Chargers",
+    "price": 949,
+    "mrp": 1320,
+    "rating": 3.3,
+    "stock": 77,
+    "tags": [
+      "universal",
+      "fast-chargers",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#227",
+      "https://placehold.co/400x400?text=Fast+Charger+#227"
+    ],
+    "description": "VoltMax Fast Charger #227 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1228,
+    "name": "Protective Back Cover #228",
+    "brand": "TunePod",
+    "category": "Back Covers",
+    "price": 129,
+    "mrp": 160,
+    "rating": 4.8,
+    "stock": 191,
+    "tags": [
+      "glossy",
+      "type-c",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#228",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#228"
+    ],
+    "description": "TunePod Protective Back Cover #228 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1229,
+    "name": "9H Tempered Glass #229",
+    "brand": "GripMate",
+    "category": "Screen Guards",
+    "price": 89,
+    "mrp": 120,
+    "rating": 3.6,
+    "stock": 146,
+    "tags": [
+      "slim",
+      "hot",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#229",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#229"
+    ],
+    "description": "GripMate 9H Tempered Glass #229 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1230,
+    "name": "Fast Charger #230",
+    "brand": "ChargeGo",
+    "category": "Fast Chargers",
+    "price": 1799,
+    "mrp": 2230,
+    "rating": 5.0,
+    "stock": 179,
+    "tags": [
+      "bestseller",
+      "discount",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#230",
+      "https://placehold.co/400x400?text=Fast+Charger+#230"
+    ],
+    "description": "ChargeGo Fast Charger #230 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1231,
+    "name": "Selfie Stick Tripod #231",
+    "brand": "BassBeat",
+    "category": "Selfie Sticks",
+    "price": 629,
+    "mrp": 860,
+    "rating": 3.9,
+    "stock": 41,
+    "tags": [
+      "fast-charge",
+      "type-c",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#231",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#231"
+    ],
+    "description": "BassBeat Selfie Stick Tripod #231 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1232,
+    "name": "9H Tempered Glass #232",
+    "brand": "AddaShield",
+    "category": "Screen Guards",
+    "price": 89,
+    "mrp": 100,
+    "rating": 3.8,
+    "stock": 126,
+    "tags": [
+      "screen-guards",
+      "lightning",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#232",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#232"
+    ],
+    "description": "AddaShield 9H Tempered Glass #232 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1233,
+    "name": "Power Bank #233",
+    "brand": "BassBeat",
+    "category": "Power Banks",
+    "price": 2359,
+    "mrp": 2970,
+    "rating": 3.9,
+    "stock": 162,
+    "tags": [
+      "slim",
+      "matte",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#233",
+      "https://placehold.co/400x400?text=Power+Bank+#233"
+    ],
+    "description": "BassBeat Power Bank #233 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1234,
+    "name": "USB Hub #234",
+    "brand": "ArmorX",
+    "category": "USB Hubs",
+    "price": 1019,
+    "mrp": 1270,
+    "rating": 4.7,
+    "stock": 99,
+    "tags": [
+      "matte",
+      "bestseller",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#234",
+      "https://placehold.co/400x400?text=USB+Hub+#234"
+    ],
+    "description": "ArmorX USB Hub #234 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1235,
+    "name": "Silicone Strap #235",
+    "brand": "ChargeGo",
+    "category": "Smartwatch Straps",
+    "price": 949,
+    "mrp": 1050,
+    "rating": 4.1,
+    "stock": 172,
+    "tags": [
+      "gaming",
+      "new",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#235",
+      "https://placehold.co/400x400?text=Silicone+Strap+#235"
+    ],
+    "description": "ChargeGo Silicone Strap #235 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1236,
+    "name": "USB Hub #236",
+    "brand": "NanoGuard",
+    "category": "USB Hubs",
+    "price": 969,
+    "mrp": 1370,
+    "rating": 4.3,
+    "stock": 102,
+    "tags": [
+      "discount",
+      "gaming",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#236",
+      "https://placehold.co/400x400?text=USB+Hub+#236"
+    ],
+    "description": "NanoGuard USB Hub #236 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1237,
+    "name": "Type-C Cable #237",
+    "brand": "VoltMax",
+    "category": "Cables",
+    "price": 99,
+    "mrp": 130,
+    "rating": 4.0,
+    "stock": 110,
+    "tags": [
+      "fast-charge",
+      "micro-usb",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#237",
+      "https://placehold.co/400x400?text=Type-C+Cable+#237"
+    ],
+    "description": "VoltMax Type-C Cable #237 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1238,
+    "name": "USB Hub #238",
+    "brand": "TunePod",
+    "category": "USB Hubs",
+    "price": 1379,
+    "mrp": 2020,
+    "rating": 3.3,
+    "stock": 40,
+    "tags": [
+      "usb-hubs",
+      "fast-charge",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#238",
+      "https://placehold.co/400x400?text=USB+Hub+#238"
+    ],
+    "description": "TunePod USB Hub #238 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1239,
+    "name": "OTG Adapter #239",
+    "brand": "SnapFit",
+    "category": "OTG & Adapters",
+    "price": 249,
+    "mrp": 330,
+    "rating": 3.8,
+    "stock": 49,
+    "tags": [
+      "lightning",
+      "matte",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#239",
+      "https://placehold.co/400x400?text=OTG+Adapter+#239"
+    ],
+    "description": "SnapFit OTG Adapter #239 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1240,
+    "name": "MicroSD Card #240",
+    "brand": "SnapFit",
+    "category": "Memory Cards",
+    "price": 1939,
+    "mrp": 2910,
+    "rating": 3.7,
+    "stock": 128,
+    "tags": [
+      "fast-charge",
+      "gaming",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#240",
+      "https://placehold.co/400x400?text=MicroSD+Card+#240"
+    ],
+    "description": "SnapFit MicroSD Card #240 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1241,
+    "name": "Silicone Strap #241",
+    "brand": "VoltMax",
+    "category": "Smartwatch Straps",
+    "price": 529,
+    "mrp": 780,
+    "rating": 4.5,
+    "stock": 181,
+    "tags": [
+      "universal",
+      "matte",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#241",
+      "https://placehold.co/400x400?text=Silicone+Strap+#241"
+    ],
+    "description": "VoltMax Silicone Strap #241 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1242,
+    "name": "MicroSD Card #242",
+    "brand": "FlexiWire",
+    "category": "Memory Cards",
+    "price": 999,
+    "mrp": 1240,
+    "rating": 4.2,
+    "stock": 144,
+    "tags": [
+      "type-c",
+      "memory-cards",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#242",
+      "https://placehold.co/400x400?text=MicroSD+Card+#242"
+    ],
+    "description": "FlexiWire MicroSD Card #242 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1243,
+    "name": "MicroSD Card #243",
+    "brand": "ChargeGo",
+    "category": "Memory Cards",
+    "price": 669,
+    "mrp": 830,
+    "rating": 3.7,
+    "stock": 187,
+    "tags": [
+      "hot",
+      "glossy",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#243",
+      "https://placehold.co/400x400?text=MicroSD+Card+#243"
+    ],
+    "description": "ChargeGo MicroSD Card #243 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1244,
+    "name": "Fast Charger #244",
+    "brand": "SnapFit",
+    "category": "Fast Chargers",
+    "price": 1049,
+    "mrp": 1540,
+    "rating": 3.6,
+    "stock": 142,
+    "tags": [
+      "wireless",
+      "fast-chargers",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#244",
+      "https://placehold.co/400x400?text=Fast+Charger+#244"
+    ],
+    "description": "SnapFit Fast Charger #244 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1245,
+    "name": "Type-C Cable #245",
+    "brand": "AirWave",
+    "category": "Cables",
+    "price": 329,
+    "mrp": 450,
+    "rating": 3.6,
+    "stock": 176,
+    "tags": [
+      "cables",
+      "gaming",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#245",
+      "https://placehold.co/400x400?text=Type-C+Cable+#245"
+    ],
+    "description": "AirWave Type-C Cable #245 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1246,
+    "name": "Portable Bluetooth Speaker #246",
+    "brand": "AddaShield",
+    "category": "Bluetooth Speakers",
+    "price": 1409,
+    "mrp": 1840,
+    "rating": 4.5,
+    "stock": 30,
+    "tags": [
+      "discount",
+      "premium",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#246",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#246"
+    ],
+    "description": "AddaShield Portable Bluetooth Speaker #246 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1247,
+    "name": "True Wireless Earbuds #247",
+    "brand": "GripMate",
+    "category": "Earbuds",
+    "price": 3229,
+    "mrp": 4320,
+    "rating": 3.6,
+    "stock": 78,
+    "tags": [
+      "matte",
+      "slim",
+      "earbuds"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#247",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#247"
+    ],
+    "description": "GripMate True Wireless Earbuds #247 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1248,
+    "name": "9H Tempered Glass #248",
+    "brand": "EchoBox",
+    "category": "Screen Guards",
+    "price": 99,
+    "mrp": 140,
+    "rating": 3.6,
+    "stock": 194,
+    "tags": [
+      "new",
+      "durable",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#248",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#248"
+    ],
+    "description": "EchoBox 9H Tempered Glass #248 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1249,
+    "name": "True Wireless Earbuds #249",
+    "brand": "EchoBox",
+    "category": "Earbuds",
+    "price": 979,
+    "mrp": 1560,
+    "rating": 3.9,
+    "stock": 131,
+    "tags": [
+      "durable",
+      "slim",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#249",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#249"
+    ],
+    "description": "EchoBox True Wireless Earbuds #249 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1250,
+    "name": "9H Tempered Glass #250",
+    "brand": "AddaShield",
+    "category": "Screen Guards",
+    "price": 169,
+    "mrp": 230,
+    "rating": 3.4,
+    "stock": 90,
+    "tags": [
+      "slim",
+      "lightning",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#250",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#250"
+    ],
+    "description": "AddaShield 9H Tempered Glass #250 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1251,
+    "name": "USB Hub #251",
+    "brand": "EchoBox",
+    "category": "USB Hubs",
+    "price": 469,
+    "mrp": 710,
+    "rating": 4.0,
+    "stock": 54,
+    "tags": [
+      "bestseller",
+      "matte",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#251",
+      "https://placehold.co/400x400?text=USB+Hub+#251"
+    ],
+    "description": "EchoBox USB Hub #251 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1252,
+    "name": "Fast Charger #252",
+    "brand": "SnapFit",
+    "category": "Fast Chargers",
+    "price": 1049,
+    "mrp": 1530,
+    "rating": 3.2,
+    "stock": 91,
+    "tags": [
+      "slim",
+      "fast-charge",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#252",
+      "https://placehold.co/400x400?text=Fast+Charger+#252"
+    ],
+    "description": "SnapFit Fast Charger #252 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1253,
+    "name": "Selfie Stick Tripod #253",
+    "brand": "TunePod",
+    "category": "Selfie Sticks",
+    "price": 739,
+    "mrp": 1000,
+    "rating": 3.4,
+    "stock": 176,
+    "tags": [
+      "bestseller",
+      "durable",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#253",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#253"
+    ],
+    "description": "TunePod Selfie Stick Tripod #253 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1254,
+    "name": "USB Hub #254",
+    "brand": "BassBeat",
+    "category": "USB Hubs",
+    "price": 1489,
+    "mrp": 1820,
+    "rating": 3.7,
+    "stock": 65,
+    "tags": [
+      "lightning",
+      "wireless",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#254",
+      "https://placehold.co/400x400?text=USB+Hub+#254"
+    ],
+    "description": "BassBeat USB Hub #254 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1255,
+    "name": "Silicone Strap #255",
+    "brand": "AirWave",
+    "category": "Smartwatch Straps",
+    "price": 879,
+    "mrp": 970,
+    "rating": 4.4,
+    "stock": 182,
+    "tags": [
+      "gaming",
+      "new",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#255",
+      "https://placehold.co/400x400?text=Silicone+Strap+#255"
+    ],
+    "description": "AirWave Silicone Strap #255 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1256,
+    "name": "Type-C Cable #256",
+    "brand": "PowerPro",
+    "category": "Cables",
+    "price": 189,
+    "mrp": 220,
+    "rating": 4.4,
+    "stock": 185,
+    "tags": [
+      "slim",
+      "bestseller",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#256",
+      "https://placehold.co/400x400?text=Type-C+Cable+#256"
+    ],
+    "description": "PowerPro Type-C Cable #256 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1257,
+    "name": "Silicone Strap #257",
+    "brand": "BassBeat",
+    "category": "Smartwatch Straps",
+    "price": 929,
+    "mrp": 1120,
+    "rating": 4.9,
+    "stock": 127,
+    "tags": [
+      "discount",
+      "lightning",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#257",
+      "https://placehold.co/400x400?text=Silicone+Strap+#257"
+    ],
+    "description": "BassBeat Silicone Strap #257 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1258,
+    "name": "MicroSD Card #258",
+    "brand": "GripMate",
+    "category": "Memory Cards",
+    "price": 1699,
+    "mrp": 2640,
+    "rating": 4.6,
+    "stock": 175,
+    "tags": [
+      "fast-charge",
+      "gaming",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#258",
+      "https://placehold.co/400x400?text=MicroSD+Card+#258"
+    ],
+    "description": "GripMate MicroSD Card #258 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1259,
+    "name": "Wall Charger #259",
+    "brand": "FlexiWire",
+    "category": "Chargers",
+    "price": 769,
+    "mrp": 1040,
+    "rating": 3.9,
+    "stock": 149,
+    "tags": [
+      "bestseller",
+      "new",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#259",
+      "https://placehold.co/400x400?text=Wall+Charger+#259"
+    ],
+    "description": "FlexiWire Wall Charger #259 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1260,
+    "name": "Bluetooth Neckband #260",
+    "brand": "AirWave",
+    "category": "Neckbands",
+    "price": 1869,
+    "mrp": 2190,
+    "rating": 3.8,
+    "stock": 138,
+    "tags": [
+      "lightning",
+      "bestseller",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#260",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#260"
+    ],
+    "description": "AirWave Bluetooth Neckband #260 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1261,
+    "name": "Bluetooth Neckband #261",
+    "brand": "ArmorX",
+    "category": "Neckbands",
+    "price": 1989,
+    "mrp": 2670,
+    "rating": 4.8,
+    "stock": 119,
+    "tags": [
+      "new",
+      "lightning",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#261",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#261"
+    ],
+    "description": "ArmorX Bluetooth Neckband #261 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1262,
+    "name": "Mobile Gaming Triggers #262",
+    "brand": "PowerPro",
+    "category": "Gaming Triggers",
+    "price": 509,
+    "mrp": 570,
+    "rating": 4.0,
+    "stock": 83,
+    "tags": [
+      "premium",
+      "type-c",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#262",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#262"
+    ],
+    "description": "PowerPro Mobile Gaming Triggers #262 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1263,
+    "name": "Protective Back Cover #263",
+    "brand": "ArmorX",
+    "category": "Back Covers",
+    "price": 159,
+    "mrp": 220,
+    "rating": 3.3,
+    "stock": 93,
+    "tags": [
+      "hot",
+      "new",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#263",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#263"
+    ],
+    "description": "ArmorX Protective Back Cover #263 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1264,
+    "name": "Wall Charger #264",
+    "brand": "EchoBox",
+    "category": "Chargers",
+    "price": 799,
+    "mrp": 890,
+    "rating": 3.9,
+    "stock": 39,
+    "tags": [
+      "micro-usb",
+      "glossy",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#264",
+      "https://placehold.co/400x400?text=Wall+Charger+#264"
+    ],
+    "description": "EchoBox Wall Charger #264 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1265,
+    "name": "Selfie Stick Tripod #265",
+    "brand": "PowerPro",
+    "category": "Selfie Sticks",
+    "price": 679,
+    "mrp": 870,
+    "rating": 4.4,
+    "stock": 174,
+    "tags": [
+      "discount",
+      "glossy",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#265",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#265"
+    ],
+    "description": "PowerPro Selfie Stick Tripod #265 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1266,
+    "name": "True Wireless Earbuds #266",
+    "brand": "FlexiWire",
+    "category": "Earbuds",
+    "price": 2809,
+    "mrp": 3830,
+    "rating": 4.5,
+    "stock": 62,
+    "tags": [
+      "premium",
+      "earbuds",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#266",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#266"
+    ],
+    "description": "FlexiWire True Wireless Earbuds #266 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1267,
+    "name": "Fast Charger #267",
+    "brand": "SnapFit",
+    "category": "Fast Chargers",
+    "price": 1789,
+    "mrp": 2340,
+    "rating": 3.9,
+    "stock": 63,
+    "tags": [
+      "gaming",
+      "lightning",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#267",
+      "https://placehold.co/400x400?text=Fast+Charger+#267"
+    ],
+    "description": "SnapFit Fast Charger #267 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1268,
+    "name": "Power Bank #268",
+    "brand": "SoundPulse",
+    "category": "Power Banks",
+    "price": 1279,
+    "mrp": 2000,
+    "rating": 4.5,
+    "stock": 33,
+    "tags": [
+      "new",
+      "micro-usb",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#268",
+      "https://placehold.co/400x400?text=Power+Bank+#268"
+    ],
+    "description": "SoundPulse Power Bank #268 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1269,
+    "name": "Protective Back Cover #269",
+    "brand": "VoltMax",
+    "category": "Back Covers",
+    "price": 159,
+    "mrp": 180,
+    "rating": 4.3,
+    "stock": 119,
+    "tags": [
+      "new",
+      "gaming",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#269",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#269"
+    ],
+    "description": "VoltMax Protective Back Cover #269 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1270,
+    "name": "9H Tempered Glass #270",
+    "brand": "GripMate",
+    "category": "Screen Guards",
+    "price": 219,
+    "mrp": 260,
+    "rating": 3.6,
+    "stock": 19,
+    "tags": [
+      "discount",
+      "slim",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#270",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#270"
+    ],
+    "description": "GripMate 9H Tempered Glass #270 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1271,
+    "name": "OTG Adapter #271",
+    "brand": "AirWave",
+    "category": "OTG & Adapters",
+    "price": 289,
+    "mrp": 420,
+    "rating": 4.7,
+    "stock": 65,
+    "tags": [
+      "slim",
+      "discount",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#271",
+      "https://placehold.co/400x400?text=OTG+Adapter+#271"
+    ],
+    "description": "AirWave OTG Adapter #271 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1272,
+    "name": "Portable Bluetooth Speaker #272",
+    "brand": "GripMate",
+    "category": "Bluetooth Speakers",
+    "price": 2429,
+    "mrp": 3000,
+    "rating": 4.2,
+    "stock": 156,
+    "tags": [
+      "durable",
+      "micro-usb",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#272",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#272"
+    ],
+    "description": "GripMate Portable Bluetooth Speaker #272 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1273,
+    "name": "USB Hub #273",
+    "brand": "AddaShield",
+    "category": "USB Hubs",
+    "price": 739,
+    "mrp": 1160,
+    "rating": 4.4,
+    "stock": 139,
+    "tags": [
+      "matte",
+      "micro-usb",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#273",
+      "https://placehold.co/400x400?text=USB+Hub+#273"
+    ],
+    "description": "AddaShield USB Hub #273 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1274,
+    "name": "Power Bank #274",
+    "brand": "SoundPulse",
+    "category": "Power Banks",
+    "price": 1759,
+    "mrp": 2090,
+    "rating": 4.2,
+    "stock": 66,
+    "tags": [
+      "gaming",
+      "slim",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#274",
+      "https://placehold.co/400x400?text=Power+Bank+#274"
+    ],
+    "description": "SoundPulse Power Bank #274 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1275,
+    "name": "Power Bank #275",
+    "brand": "ChargeGo",
+    "category": "Power Banks",
+    "price": 1979,
+    "mrp": 3080,
+    "rating": 4.2,
+    "stock": 111,
+    "tags": [
+      "power-banks",
+      "discount",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#275",
+      "https://placehold.co/400x400?text=Power+Bank+#275"
+    ],
+    "description": "ChargeGo Power Bank #275 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1276,
+    "name": "Portable Bluetooth Speaker #276",
+    "brand": "SoundPulse",
+    "category": "Bluetooth Speakers",
+    "price": 1939,
+    "mrp": 2450,
+    "rating": 3.3,
+    "stock": 120,
+    "tags": [
+      "glossy",
+      "hot",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#276",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#276"
+    ],
+    "description": "SoundPulse Portable Bluetooth Speaker #276 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1277,
+    "name": "Bluetooth Neckband #277",
+    "brand": "AddaShield",
+    "category": "Neckbands",
+    "price": 1179,
+    "mrp": 1510,
+    "rating": 4.3,
+    "stock": 15,
+    "tags": [
+      "hot",
+      "fast-charge",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#277",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#277"
+    ],
+    "description": "AddaShield Bluetooth Neckband #277 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1278,
+    "name": "Bluetooth Neckband #278",
+    "brand": "PowerPro",
+    "category": "Neckbands",
+    "price": 1029,
+    "mrp": 1570,
+    "rating": 3.8,
+    "stock": 8,
+    "tags": [
+      "fast-charge",
+      "neckbands",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#278",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#278"
+    ],
+    "description": "PowerPro Bluetooth Neckband #278 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1279,
+    "name": "Type-C Cable #279",
+    "brand": "ArmorX",
+    "category": "Cables",
+    "price": 339,
+    "mrp": 450,
+    "rating": 3.6,
+    "stock": 159,
+    "tags": [
+      "fast-charge",
+      "type-c",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Type-C+Cable+#279",
+      "https://placehold.co/400x400?text=Type-C+Cable+#279"
+    ],
+    "description": "ArmorX Type-C Cable #279 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1280,
+    "name": "Portable Bluetooth Speaker #280",
+    "brand": "FlexiWire",
+    "category": "Bluetooth Speakers",
+    "price": 2539,
+    "mrp": 3770,
+    "rating": 3.9,
+    "stock": 141,
+    "tags": [
+      "glossy",
+      "slim",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#280",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#280"
+    ],
+    "description": "FlexiWire Portable Bluetooth Speaker #280 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1281,
+    "name": "MicroSD Card #281",
+    "brand": "FlexiWire",
+    "category": "Memory Cards",
+    "price": 1569,
+    "mrp": 2090,
+    "rating": 4.6,
+    "stock": 189,
+    "tags": [
+      "universal",
+      "matte",
+      "lightning"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#281",
+      "https://placehold.co/400x400?text=MicroSD+Card+#281"
+    ],
+    "description": "FlexiWire MicroSD Card #281 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1282,
+    "name": "Bluetooth Neckband #282",
+    "brand": "BassBeat",
+    "category": "Neckbands",
+    "price": 1299,
+    "mrp": 1690,
+    "rating": 4.2,
+    "stock": 61,
+    "tags": [
+      "discount",
+      "premium",
+      "neckbands"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#282",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#282"
+    ],
+    "description": "BassBeat Bluetooth Neckband #282 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1283,
+    "name": "Mobile Gaming Triggers #283",
+    "brand": "SoundPulse",
+    "category": "Gaming Triggers",
+    "price": 239,
+    "mrp": 280,
+    "rating": 3.6,
+    "stock": 150,
+    "tags": [
+      "gaming",
+      "universal",
+      "wireless"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#283",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#283"
+    ],
+    "description": "SoundPulse Mobile Gaming Triggers #283 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1284,
+    "name": "OTG Adapter #284",
+    "brand": "SoundPulse",
+    "category": "OTG & Adapters",
+    "price": 339,
+    "mrp": 510,
+    "rating": 4.9,
+    "stock": 169,
+    "tags": [
+      "universal",
+      "lightning",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#284",
+      "https://placehold.co/400x400?text=OTG+Adapter+#284"
+    ],
+    "description": "SoundPulse OTG Adapter #284 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1285,
+    "name": "MicroSD Card #285",
+    "brand": "NanoGuard",
+    "category": "Memory Cards",
+    "price": 649,
+    "mrp": 940,
+    "rating": 4.1,
+    "stock": 143,
+    "tags": [
+      "new",
+      "memory-cards",
+      "micro-usb"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#285",
+      "https://placehold.co/400x400?text=MicroSD+Card+#285"
+    ],
+    "description": "NanoGuard MicroSD Card #285 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1286,
+    "name": "Wall Charger #286",
+    "brand": "TunePod",
+    "category": "Chargers",
+    "price": 259,
+    "mrp": 380,
+    "rating": 3.9,
+    "stock": 166,
+    "tags": [
+      "gaming",
+      "hot",
+      "glossy"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#286",
+      "https://placehold.co/400x400?text=Wall+Charger+#286"
+    ],
+    "description": "TunePod Wall Charger #286 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1287,
+    "name": "Power Bank #287",
+    "brand": "AddaShield",
+    "category": "Power Banks",
+    "price": 1349,
+    "mrp": 1820,
+    "rating": 3.9,
+    "stock": 163,
+    "tags": [
+      "universal",
+      "power-banks",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#287",
+      "https://placehold.co/400x400?text=Power+Bank+#287"
+    ],
+    "description": "AddaShield Power Bank #287 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1288,
+    "name": "Protective Back Cover #288",
+    "brand": "FlexiWire",
+    "category": "Back Covers",
+    "price": 269,
+    "mrp": 350,
+    "rating": 3.2,
+    "stock": 189,
+    "tags": [
+      "wireless",
+      "slim",
+      "premium"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#288",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#288"
+    ],
+    "description": "FlexiWire Protective Back Cover #288 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1289,
+    "name": "Mobile Gaming Triggers #289",
+    "brand": "ChargeGo",
+    "category": "Gaming Triggers",
+    "price": 259,
+    "mrp": 290,
+    "rating": 3.4,
+    "stock": 43,
+    "tags": [
+      "gaming",
+      "fast-charge",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#289",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#289"
+    ],
+    "description": "ChargeGo Mobile Gaming Triggers #289 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1290,
+    "name": "Magnetic Car Mount #290",
+    "brand": "TunePod",
+    "category": "Car Mounts",
+    "price": 649,
+    "mrp": 800,
+    "rating": 3.9,
+    "stock": 100,
+    "tags": [
+      "type-c",
+      "lightning",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#290",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#290"
+    ],
+    "description": "TunePod Magnetic Car Mount #290 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1291,
+    "name": "Portable Bluetooth Speaker #291",
+    "brand": "ArmorX",
+    "category": "Bluetooth Speakers",
+    "price": 2049,
+    "mrp": 2560,
+    "rating": 4.7,
+    "stock": 25,
+    "tags": [
+      "new",
+      "hot",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#291",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#291"
+    ],
+    "description": "ArmorX Portable Bluetooth Speaker #291 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1292,
+    "name": "Selfie Stick Tripod #292",
+    "brand": "GripMate",
+    "category": "Selfie Sticks",
+    "price": 899,
+    "mrp": 1200,
+    "rating": 4.3,
+    "stock": 184,
+    "tags": [
+      "durable",
+      "hot",
+      "gaming"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#292",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#292"
+    ],
+    "description": "GripMate Selfie Stick Tripod #292 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1293,
+    "name": "Mobile Gaming Triggers #293",
+    "brand": "SnapFit",
+    "category": "Gaming Triggers",
+    "price": 649,
+    "mrp": 820,
+    "rating": 5.0,
+    "stock": 29,
+    "tags": [
+      "gaming-triggers",
+      "new",
+      "bestseller"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#293",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#293"
+    ],
+    "description": "SnapFit Mobile Gaming Triggers #293 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1294,
+    "name": "Bluetooth Neckband #294",
+    "brand": "EchoBox",
+    "category": "Neckbands",
+    "price": 1949,
+    "mrp": 2600,
+    "rating": 3.3,
+    "stock": 24,
+    "tags": [
+      "wireless",
+      "new",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#294",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#294"
+    ],
+    "description": "EchoBox Bluetooth Neckband #294 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1295,
+    "name": "OTG Adapter #295",
+    "brand": "AddaShield",
+    "category": "OTG & Adapters",
+    "price": 159,
+    "mrp": 220,
+    "rating": 4.6,
+    "stock": 187,
+    "tags": [
+      "type-c",
+      "hot",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#295",
+      "https://placehold.co/400x400?text=OTG+Adapter+#295"
+    ],
+    "description": "AddaShield OTG Adapter #295 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1296,
+    "name": "True Wireless Earbuds #296",
+    "brand": "AirWave",
+    "category": "Earbuds",
+    "price": 2029,
+    "mrp": 2800,
+    "rating": 4.7,
+    "stock": 178,
+    "tags": [
+      "matte",
+      "type-c",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#296",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#296"
+    ],
+    "description": "AirWave True Wireless Earbuds #296 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1297,
+    "name": "Power Bank #297",
+    "brand": "ChargeGo",
+    "category": "Power Banks",
+    "price": 999,
+    "mrp": 1340,
+    "rating": 5.0,
+    "stock": 18,
+    "tags": [
+      "bestseller",
+      "micro-usb",
+      "power-banks"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Power+Bank+#297",
+      "https://placehold.co/400x400?text=Power+Bank+#297"
+    ],
+    "description": "ChargeGo Power Bank #297 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1298,
+    "name": "Wall Charger #298",
+    "brand": "BassBeat",
+    "category": "Chargers",
+    "price": 969,
+    "mrp": 1430,
+    "rating": 4.9,
+    "stock": 106,
+    "tags": [
+      "matte",
+      "premium",
+      "chargers"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Wall+Charger+#298",
+      "https://placehold.co/400x400?text=Wall+Charger+#298"
+    ],
+    "description": "BassBeat Wall Charger #298 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1299,
+    "name": "Magnetic Car Mount #299",
+    "brand": "ChargeGo",
+    "category": "Car Mounts",
+    "price": 769,
+    "mrp": 1030,
+    "rating": 3.8,
+    "stock": 101,
+    "tags": [
+      "micro-usb",
+      "durable",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#299",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#299"
+    ],
+    "description": "ChargeGo Magnetic Car Mount #299 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1300,
+    "name": "Selfie Stick Tripod #300",
+    "brand": "CaseCraft",
+    "category": "Selfie Sticks",
+    "price": 989,
+    "mrp": 1230,
+    "rating": 3.6,
+    "stock": 23,
+    "tags": [
+      "hot",
+      "wireless",
+      "selfie-sticks"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#300",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#300"
+    ],
+    "description": "CaseCraft Selfie Stick Tripod #300 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1301,
+    "name": "Selfie Stick Tripod #301",
+    "brand": "ArmorX",
+    "category": "Selfie Sticks",
+    "price": 389,
+    "mrp": 570,
+    "rating": 3.8,
+    "stock": 32,
+    "tags": [
+      "hot",
+      "premium",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#301",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#301"
+    ],
+    "description": "ArmorX Selfie Stick Tripod #301 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1302,
+    "name": "Fast Charger #302",
+    "brand": "BassBeat",
+    "category": "Fast Chargers",
+    "price": 1089,
+    "mrp": 1250,
+    "rating": 3.4,
+    "stock": 115,
+    "tags": [
+      "lightning",
+      "micro-usb",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#302",
+      "https://placehold.co/400x400?text=Fast+Charger+#302"
+    ],
+    "description": "BassBeat Fast Charger #302 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1303,
+    "name": "Protective Back Cover #303",
+    "brand": "CaseCraft",
+    "category": "Back Covers",
+    "price": 209,
+    "mrp": 280,
+    "rating": 4.3,
+    "stock": 88,
+    "tags": [
+      "type-c",
+      "premium",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#303",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#303"
+    ],
+    "description": "CaseCraft Protective Back Cover #303 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1304,
+    "name": "Mobile Gaming Triggers #304",
+    "brand": "GripMate",
+    "category": "Gaming Triggers",
+    "price": 639,
+    "mrp": 720,
+    "rating": 4.8,
+    "stock": 67,
+    "tags": [
+      "gaming-triggers",
+      "durable",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#304",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#304"
+    ],
+    "description": "GripMate Mobile Gaming Triggers #304 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1305,
+    "name": "Selfie Stick Tripod #305",
+    "brand": "NanoGuard",
+    "category": "Selfie Sticks",
+    "price": 369,
+    "mrp": 450,
+    "rating": 3.7,
+    "stock": 42,
+    "tags": [
+      "hot",
+      "durable",
+      "fast-charge"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#305",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#305"
+    ],
+    "description": "NanoGuard Selfie Stick Tripod #305 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1306,
+    "name": "Magnetic Car Mount #306",
+    "brand": "GripMate",
+    "category": "Car Mounts",
+    "price": 579,
+    "mrp": 770,
+    "rating": 3.3,
+    "stock": 69,
+    "tags": [
+      "gaming",
+      "universal",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Magnetic+Car+Mount+#306",
+      "https://placehold.co/400x400?text=Magnetic+Car+Mount+#306"
+    ],
+    "description": "GripMate Magnetic Car Mount #306 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1307,
+    "name": "Bluetooth Neckband #307",
+    "brand": "PowerPro",
+    "category": "Neckbands",
+    "price": 769,
+    "mrp": 890,
+    "rating": 3.2,
+    "stock": 106,
+    "tags": [
+      "matte",
+      "type-c",
+      "universal"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#307",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#307"
+    ],
+    "description": "PowerPro Bluetooth Neckband #307 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1308,
+    "name": "OTG Adapter #308",
+    "brand": "PowerPro",
+    "category": "OTG & Adapters",
+    "price": 199,
+    "mrp": 260,
+    "rating": 4.7,
+    "stock": 171,
+    "tags": [
+      "discount",
+      "slim",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=OTG+Adapter+#308",
+      "https://placehold.co/400x400?text=OTG+Adapter+#308"
+    ],
+    "description": "PowerPro OTG Adapter #308 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1309,
+    "name": "Bluetooth Neckband #309",
+    "brand": "PowerPro",
+    "category": "Neckbands",
+    "price": 1299,
+    "mrp": 1540,
+    "rating": 3.9,
+    "stock": 86,
+    "tags": [
+      "slim",
+      "universal",
+      "neckbands"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Bluetooth+Neckband+#309",
+      "https://placehold.co/400x400?text=Bluetooth+Neckband+#309"
+    ],
+    "description": "PowerPro Bluetooth Neckband #309 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1310,
+    "name": "Portable Bluetooth Speaker #310",
+    "brand": "BassBeat",
+    "category": "Bluetooth Speakers",
+    "price": 2819,
+    "mrp": 3490,
+    "rating": 4.6,
+    "stock": 98,
+    "tags": [
+      "bestseller",
+      "fast-charge",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Portable+Bluetooth+Speaker+#310",
+      "https://placehold.co/400x400?text=Portable+Bluetooth+Speaker+#310"
+    ],
+    "description": "BassBeat Portable Bluetooth Speaker #310 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1311,
+    "name": "True Wireless Earbuds #311",
+    "brand": "SnapFit",
+    "category": "Earbuds",
+    "price": 3609,
+    "mrp": 4010,
+    "rating": 4.5,
+    "stock": 186,
+    "tags": [
+      "fast-charge",
+      "lightning",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=True+Wireless+Earbuds+#311",
+      "https://placehold.co/400x400?text=True+Wireless+Earbuds+#311"
+    ],
+    "description": "SnapFit True Wireless Earbuds #311 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1312,
+    "name": "Silicone Strap #312",
+    "brand": "TunePod",
+    "category": "Smartwatch Straps",
+    "price": 229,
+    "mrp": 340,
+    "rating": 4.6,
+    "stock": 109,
+    "tags": [
+      "universal",
+      "discount",
+      "matte"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#312",
+      "https://placehold.co/400x400?text=Silicone+Strap+#312"
+    ],
+    "description": "TunePod Silicone Strap #312 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1313,
+    "name": "Silicone Strap #313",
+    "brand": "VoltMax",
+    "category": "Smartwatch Straps",
+    "price": 469,
+    "mrp": 670,
+    "rating": 4.5,
+    "stock": 101,
+    "tags": [
+      "hot",
+      "lightning",
+      "slim"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Silicone+Strap+#313",
+      "https://placehold.co/400x400?text=Silicone+Strap+#313"
+    ],
+    "description": "VoltMax Silicone Strap #313 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1314,
+    "name": "USB Hub #314",
+    "brand": "AirWave",
+    "category": "USB Hubs",
+    "price": 809,
+    "mrp": 1100,
+    "rating": 4.9,
+    "stock": 182,
+    "tags": [
+      "micro-usb",
+      "new",
+      "type-c"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=USB+Hub+#314",
+      "https://placehold.co/400x400?text=USB+Hub+#314"
+    ],
+    "description": "AirWave USB Hub #314 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1315,
+    "name": "MicroSD Card #315",
+    "brand": "ArmorX",
+    "category": "Memory Cards",
+    "price": 1669,
+    "mrp": 2330,
+    "rating": 4.8,
+    "stock": 32,
+    "tags": [
+      "gaming",
+      "glossy",
+      "hot"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=MicroSD+Card+#315",
+      "https://placehold.co/400x400?text=MicroSD+Card+#315"
+    ],
+    "description": "ArmorX MicroSD Card #315 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1316,
+    "name": "9H Tempered Glass #316",
+    "brand": "AirWave",
+    "category": "Screen Guards",
+    "price": 279,
+    "mrp": 400,
+    "rating": 3.9,
+    "stock": 197,
+    "tags": [
+      "matte",
+      "micro-usb",
+      "new"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=9H+Tempered+Glass+#316",
+      "https://placehold.co/400x400?text=9H+Tempered+Glass+#316"
+    ],
+    "description": "AirWave 9H Tempered Glass #316 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1317,
+    "name": "Protective Back Cover #317",
+    "brand": "CaseCraft",
+    "category": "Back Covers",
+    "price": 179,
+    "mrp": 210,
+    "rating": 4.5,
+    "stock": 147,
+    "tags": [
+      "gaming",
+      "lightning",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Protective+Back+Cover+#317",
+      "https://placehold.co/400x400?text=Protective+Back+Cover+#317"
+    ],
+    "description": "CaseCraft Protective Back Cover #317 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1318,
+    "name": "Selfie Stick Tripod #318",
+    "brand": "PowerPro",
+    "category": "Selfie Sticks",
+    "price": 949,
+    "mrp": 1370,
+    "rating": 3.5,
+    "stock": 11,
+    "tags": [
+      "universal",
+      "bestseller",
+      "discount"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Selfie+Stick+Tripod+#318",
+      "https://placehold.co/400x400?text=Selfie+Stick+Tripod+#318"
+    ],
+    "description": "PowerPro Selfie Stick Tripod #318 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1319,
+    "name": "Mobile Gaming Triggers #319",
+    "brand": "EchoBox",
+    "category": "Gaming Triggers",
+    "price": 199,
+    "mrp": 230,
+    "rating": 4.9,
+    "stock": 41,
+    "tags": [
+      "glossy",
+      "slim",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Mobile+Gaming+Triggers+#319",
+      "https://placehold.co/400x400?text=Mobile+Gaming+Triggers+#319"
+    ],
+    "description": "EchoBox Mobile Gaming Triggers #319 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1320,
+    "name": "Fast Charger #320",
+    "brand": "ChargeGo",
+    "category": "Fast Chargers",
+    "price": 919,
+    "mrp": 1250,
+    "rating": 3.8,
+    "stock": 29,
+    "tags": [
+      "lightning",
+      "fast-chargers",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#320",
+      "https://placehold.co/400x400?text=Fast+Charger+#320"
+    ],
+    "description": "ChargeGo Fast Charger #320 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  },
+  {
+    "id": 1321,
+    "name": "Fast Charger #320",
+    "brand": "ChargeGo",
+    "category": "UBON",
+    "price": 919,
+    "mrp": 1250,
+    "rating": 3.8,
+    "stock": 29,
+    "tags": [
+      "lightning",
+      "fast-chargers",
+      "durable"
+    ],
+    "images": [
+      "https://placehold.co/600x600?text=Fast+Charger+#320",
+      "https://placehold.co/400x400?text=Fast+Charger+#320"
+    ],
+    "description": "ChargeGo Fast Charger #320 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
+    "warranty": "6 months limited warranty"
+  }
+]
