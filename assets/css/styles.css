@@ -1,8 +1,8 @@
 :root {
     --bs-primary: #00ff99;  /* Custom green */
-    --bs-secondary: #222222; /* Dark background */
+    --bs-secondary: #0B755F; /* Dark background */
     --bs-body-bg: #111111;
-    --bs-body-color: #f1f1f1;
+    --bs-body-color: #0B755F;
   }
 /* Body aur HTML ko full height */
 html, body {
