@@ -29,11 +29,11 @@ main, section.container {
 
   .cat-card {
     text-decoration: none;
-    color: rgb(14, 105, 224); /* link ka color bhi normal rahe */
+    color: #0B755F; /* link ka color bhi normal rahe */
   }
   .cat-card:hover {
     text-decoration: none; /* hover par bhi underline na aaye */
-    color: saddlebrown;
+    color: #D93616;
 }
   /* Contact Form Custom Style */
 #contactForm {
