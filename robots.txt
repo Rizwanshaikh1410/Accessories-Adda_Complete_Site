@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://accessoriesadda14.com/sitemap.xml
