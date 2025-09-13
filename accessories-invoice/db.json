@@ -1,0 +1,152 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123"
+    }
+  ],
+  "invoices": [
+    {
+      "id": "RU84PEx0-BhDDj9k9MBdU",
+      "number": 1,
+      "date": "2025-09-13",
+      "customer": {
+        "name": "Rizwanshaikh"
+      },
+      "billTo": {
+        "name": "Rizwanshaikh",
+        "address": "jharkhand",
+        "mobile": "09770274616",
+        "altMobile": "09770274616",
+        "email": "rbadshah1137@gmail.com"
+      },
+      "shipTo": {
+        "name": "Rizwanshaikh",
+        "address": "jharkhand",
+        "mobile": "09770274616",
+        "altMobile": "09770274616",
+        "email": "rbadshah1137@gmail.com"
+      },
+      "products": [
+        {
+          "item": "Ubon-Buds",
+          "qty": 10,
+          "price": 500,
+          "amount": 5000
+        },
+        {
+          "item": "charger",
+          "qty": 5,
+          "price": 250,
+          "amount": 1250
+        }
+      ],
+      "discount": 2,
+      "discountAmt": 125,
+      "total": 6250,
+      "finalAmt": 6125,
+      "terms": "Warranty Products:\n1. Standard warranty if mentioned.\n2. Returns within 7 days for damaged products only.\n\nWithout Warranty Products:\n1. No returns or exchanges.\n2. Seller not responsible for misuse or third-party damage.\n3. Prices may change without notice.\n        "
+    },
+    {
+      "id": "IH_VJi5702mIISO2zSoPM",
+      "number": 2,
+      "date": "2025-09-13",
+      "customer": {
+        "name": "Rizwanshaikh"
+      },
+      "billTo": {
+        "name": "Rizwanshaikh",
+        "address": "jharkhand",
+        "mobile": "09770274616",
+        "altMobile": "09770274616",
+        "email": "rbadshah1137@gmail.com"
+      },
+      "shipTo": {
+        "name": "Rizwanshaikh",
+        "address": "jharkhand",
+        "mobile": "09770274616",
+        "altMobile": "09770274616",
+        "email": "rbadshah1137@gmail.com"
+      },
+      "products": [
+        {
+          "item": "Ubon-Buds",
+          "qty": 1,
+          "price": 1209,
+          "amount": 1209
+        }
+      ],
+      "discount": 0,
+      "discountAmt": 0,
+      "total": 1209,
+      "finalAmt": 1209,
+      "terms": "Warranty Products:\n1. Standard warranty if mentioned.\n2. Returns within 7 days for damaged products only.\n\nWithout Warranty Products:\n1. No returns or exchanges.\n2. Seller not responsible for misuse or third-party damage.\n3. Prices may change without notice.\n        "
+    },
+    {
+      "id": "1tk-ahf-svIlV5bkhVynf",
+      "number": 3,
+      "date": "2025-09-13",
+      "customer": {
+        "name": "Rizwanshaikh"
+      },
+      "billTo": {
+        "name": "Rizwanshaikh",
+        "address": "jharkhand",
+        "mobile": "09770274616",
+        "altMobile": "09770274616",
+        "email": "rbadshah1137@gmail.com"
+      },
+      "shipTo": {
+        "name": "Rizwanshaikh",
+        "address": "jharkhand",
+        "mobile": "09770274616",
+        "altMobile": "09770274616",
+        "email": "rbadshah1137@gmail.com"
+      },
+      "products": [
+        {
+          "item": "",
+          "qty": 0,
+          "price": 0,
+          "amount": 0
+        },
+        {
+          "item": "",
+          "qty": 0,
+          "price": 0,
+          "amount": 0
+        },
+        {
+          "item": "",
+          "qty": 0,
+          "price": 0,
+          "amount": 0
+        },
+        {
+          "item": "",
+          "qty": 0,
+          "price": 0,
+          "amount": 0
+        },
+        {
+          "item": "",
+          "qty": 0,
+          "price": 0,
+          "amount": 0
+        },
+        {
+          "item": "",
+          "qty": 0,
+          "price": 0,
+          "amount": 0
+        }
+      ],
+      "discount": 0,
+      "discountAmt": 0,
+      "total": 0,
+      "finalAmt": 0,
+      "terms": "Warranty Products:\n1. Standard warranty if mentioned.\n2. Returns within 7 days for damaged products only.\n\nWithout Warranty Products:\n1. No returns or exchanges.\n2. Seller not responsible for misuse or third-party damage.\n3. Prices may change without notice.\n        "
+    }
+  ]
+}
