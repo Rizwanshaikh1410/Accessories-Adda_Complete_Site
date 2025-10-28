@@ -1,24 +1,39 @@
 [
   {
     "id": 1001,
-    "name": "Store opening Discount #001",
-    "brand": "AddaShield",
-    "category": "Cables",
-    "price": 0,
-    "mrp": 499,
-    "rating": 3.6,
-    "stock": 193,
-    "tags": [
-      "bestseller",
-      "hot",
-      "slim"
-    ],
-    "images": [
-      "/assets/Banner/BG-Cover/bg-color.png",
-      "/assets/Banner/Poster/Combo+Glass+Cover=Offer.png"
-    ],
-    "description": "AddaShield Type-C Cable #001 for smartphones. High quality, reliable build, and great value from Accessories-Adda.",
-    "warranty": "6 months limited warranty"
+  "name": "Bluetooth Earphones",
+  "brand": "AddaShield",
+  "category": "Cables",
+  "price": 249,
+  "mrp": 499,
+  "rating": 4.5,
+  "stock": 19,
+  "tags": [
+    "bestseller",
+    "hot",
+    "slim"
+  ],
+  "images": [
+    "/assets/products/Neckband/BluetoothEarphone.avif",
+    "/assets/products/Neckband/bluetooth.png"
+  ],
+  "batteryChargeTime": "1 Hour",
+  "bisCertification": "0",
+  "bluetoothRange": "10m",
+  "bluetoothVersion": "5.3",
+  "chargingType": "Type C",
+  "color": "Black",
+  "compatibility": "All Smartphones",
+  "frequency": "100 Hz",
+  "mic": "Yes",
+  "netQuantity": "1",
+  "noiseCancelling": "Yes",
+  "playTime": "10 Hours",
+  "type": "Neckband",
+  "warrantyType": "Carry In",
+  "countryOfOrigin": "India",
+  "description": "Experience crystal-clear sound with the Bluetooth Earphones from Accessories Adda. Designed with Bluetooth v5.3 for stable connectivity up to 10m, these stylish black neckband earphones deliver 10 hours of nonstop music. Equipped with noise cancellation, a built-in mic for clear calls, and Type-C fast charging that powers up in just 1 hour, they’re perfect for everyday use. Compatible with all smartphones, this lightweight neckband ensures both comfort and performance for your daily hustle.",
+  "warranty": "6 months limited warranty"
   },
   {
     "id": 1002,
